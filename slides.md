@@ -4,13 +4,12 @@
 ## Éditorialisation et littérature le cas du Général Instin
 &nbsp;
 
-Enrico Agostini-Marchese, Servanne Monjour,  
-Nicolas Sauret, Marcello Vitali-Rosati
+Servanne Monjour, Nicolas Sauret, Marcello Vitali-Rosati
 
 ![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
 
-CSDH-SCHN 2017 - Congress 2017 @ Toronto  
-29-31 mai 2017
+Des humanités numériques littéraires ?  
+15-22 juin 2017
 
 <!-- .element: style="font-size:1.4rem" -->
 
@@ -174,15 +173,22 @@ source image: _STREET-ART CAMPAGNE INSTIN_ sur sp38.com
 
 ===
 
-Quel est notre projet ?
+A l'origine de notre projet, c'est l'intuition que ce qui était à l'oeuvre, et qui est toujours, avec le Général Instin est de nature à éclairer le questionnement de fond de la théorie de l'éditorialisation, sur la littérature, et sur son rapport au fait numérique.  
+C'était aussi bien entendu, une curiosité toute scientifique face à un objet que l'on arrive à peine à nommer, un objet qui s'est employé très fort à brouiller les pistes d'une catégorisation possible, au point d'en faire un modus operandi.
+>Par exemple, devrais-je dire : ce qui était à l'oeuvre _avec_ le général Instin ? ou _dans_ le général instin ? _sur_ le général instin ? On ne sait pas.
 
-Le projet a été motivé à la fois par la curiosité et par quelques intuitions sur le fait qu'il y avait là quelque chose à creuser.
+Devant un tel corpus, nous avons procédé de manière très organique, en élaborant notre méthodologie progressivement, de manière itérative en fonction des éléments que nous mettions à jour.
 
-Devant un tel corpus, nous avons procédé de manière très organique, en distinguant 4 tâches, menées pratiquement en parallèle.
+Nous pouvons séparer les différentes opérations en 4 tâches distinctes :
+1. la recherche, la collection et l'indexation du corpus
+2. l'implémentation d'une chaine de traitement pour encoder, archiver et éditorialiser le corpus
+3. l'exploration et l'analyse des données récoltées
+4. une réflexion continue, dont les axes se sont détachés et éclaircis progressivement. Ce sont ces axes de réflexions que nous présentons aujourd'hui, dans une version non aboutie.
 
-Réflexion théorique :
-  * ontologie d'instin
-  * épistémologie du projet avec la fonction de l'archive
+Si ces 4 tâches peuvent sembler successives, nous les avons en fait mené de front, en parallèle, progressant pas à pas, selon les éléments collectés, selon les questions et hypothèses que nous souhaitions poser, selon les choix techniques que nos faisions pour les résoudre. Si l'on devait un jour aboutir ce projet, si tant est que cela est possible, nous estimons que nous en sommes aux premiers pas, à un petit 10%. 10% qui nous ont servi à débrousailler un corpus, élaborer une chaine d'archivage, produire quelques visualisations, mais surtout identifier des axes de recherche et lever une piste, des pistes, à suivre.
+
+A nouveau, au-delà de la question ontologique de ce qu'est Instin, de ce qu'il nous dit des modes de publications, de la littérature contemporaine, du réel, lorsque chacun de ces champs d'actions ou champs d'études sont confrontés et travaillés dans la culture numérique, au delà de ces questions donc, a rapidement émergé la question épistémologique de ce que nous faisions d'Instin, dans une démarche auto-réflexive, récursive, tout à fait fertile puisque venant en miroir éclairer la première. Nous allons voir comment.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/inventaireAtom.png" -->
@@ -200,22 +206,32 @@ Actuellement <i class="fa fa-arrow-right"></i> 76 _manifestations_ (dont 90% sou
 
 ===
 
-Nous sommes partis d'un texte (pourquoi celui là : par hasard) : nous l'avons indexé, puis nous avons suivi le premier lien, et nous avons créé l'item-002, et ainsi de suite. Démarche pas tout à fait arbitraire car guidée par l'idée que les textes s'écrivaient ensemble, se répondaient entre eux, et formaient en fait une certaine unité, informe pour le moment.
-L'objectif était de faire un ballon d'essai avec 10 items, de réfléchir à leur indexation, aux métadonnées dont nous aurions besoin.
-A partir de 10, nous avons créé un fichier inventaire en xml et nous avons poursuivi cette approche par propagation hypertextuelle jusqu'à 30 items, avant de passer à une captation systématique, en s'appuyant aux rubriques du site Remue.net
+L'inventaire s'est déroulé en trois temps :
+  1. Exploration du corpus par propagation hypertextuelle
+  2. Captation systématique (en cours)
+  3. Ajout de sources antérieures à GI
 
-Cette captation est en cours.
+Dans un premier temps, l'objectif était de faire un ballon d'essai avec 10 items, de réfléchir à leur indexation, aux métadonnées dont nous aurions besoin. Nous sommes partis d'un texte intitulé «G.I. [04.06.09]», publié sur la plateforme Remue.net sous le nom de fichier article3322.html. Nous l'avons indexé, et recensé les liens hypertextes contenus dans le texte.
+Nous avons alors suivi le premier lien hypertexte, menant au texte intitulé «La campagne d'Egypte» (article1524.html), puis le second, et ainsi de suite, chaque nouveau texte nous menant soit à de nouveaux items, soit à des items déjà collectés.
 
-mais dans le meme temps il nous a semblé pertinent d'aller chercher des éléments pré-instinien, ceux dont servanne nous a parlé, notamment pour tenter de cerner Hinstin, au moins dans le temps.. timeline a suivre.
+Cette démarche n'était pas tout à fait arbitraire, même si son point de départ l'était, car elle était guidée par l'idée que les textes s'écrivaient ensemble, se répondaient entre eux, et formaient en fait une certaine unité, informe pour le moment, mais dont les hyperliens traçaient des pistes de lecture et d'écriture, comme le début d'une matrice de sens qu'il restait à dévoiler.
+
+Il ne nous a pas échappé cependant que cette exploration par propagation hypertextuelle devait en principe remonter le temps d'Instin, les auteurs ne pouvant se référer à des textes postérieurs. A moins peut-être qu'une main ou qu'une intelligence artificielle ne complexifie la matrice en éditant les textes publiés de nouveaux hyperliens vers des textes plus récents. Ce que nous découvrirons par la suite.
+
+A partir de 10, nous avons créé un fichier inventaire en xml et nous avons poursuivi cette approche par propagation hypertextuelle jusqu'à 30 items.
+
+Puis nous sommes passés à une captation systématique, en nous appuyant sur les rubriques du site Remue.net. La captation est toujours en cours, nous en sommes à quelques 76 items, en incluant les éléments antérieures à GI : ce sont les éléments pré-instiniens, ceux dont servanne nous a parlé, notamment pour tenter de cerner Hinstin, au moins dans le temps.. timeline a suivre.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/data-workflow.png" data-background-size="contain" -->
 
 ===
 
+Très concrètement, voici à quoi ressemble notre chaine de traitement, de la collection jusqu'à l'éditorialisation de l'archive.
+
 on retrouve les différentes étapes : Collection, encodage de l'archive, exploration des données, éditorialisation.
 
-avec l'inventaire, les sources et la captation web des sources,
+**avec** l'inventaire, les sources et la captation web des sources,
 
 un script vient encoder ces sources en TEI et la mise en place d'une base de documents XML.
 
