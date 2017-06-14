@@ -227,7 +227,7 @@ Puis nous sommes passés à une captation systématique, en nous appuyant sur le
 
 ===
 
-Très concrètement, voici à quoi ressemble notre chaine de traitement, de la collection jusqu'à l'éditorialisation de l'archive. Cette chaine
+Très concrètement, voici à quoi ressemble notre chaine de traitement, de la collection jusqu'à l'éditorialisation de l'archive.
 
 on retrouve les différentes étapes : Collection, encodage de l'archive, exploration des données, éditorialisation.
 
@@ -953,8 +953,8 @@ La démarche d'éditorialiser l'archive en cours de construction participe aussi
 
 ![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
 
-_Des humanités numériques littéraires ?_  
-15-22 juin 2017
+CSDH-SCHN 2017 - Congress 2017 @ Toronto  
+29-31 mai 2017
 
 <!-- .element: style="font-size:1.4rem" -->
 
