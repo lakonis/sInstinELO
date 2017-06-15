@@ -320,7 +320,7 @@ Nous pouvons séparer les différentes opérations en 4 tâches distinctes :
 3. l'exploration et l'analyse des données récoltées
 4. une réflexion continue, dont les axes se sont détachés et éclaircis progressivement. Ce sont ces axes de réflexions que nous présentons aujourd'hui, dans une version non aboutie.
 
-Si ces 4 tâches peuvent sembler successives, nous les avons en fait mené de front, en parallèle, progressant pas à pas, selon les éléments collectés, selon les questions et hypothèses que nous souhaitions poser, selon les choix techniques que nos faisions pour les résoudre. Si l'on devait un jour aboutir ce projet, si tant est que cela est possible, nous estimons que nous en sommes aux premiers pas, à un petit 10%. 10% qui nous ont servi à débrousailler un corpus, élaborer une chaine d'archivage, produire quelques visualisations, mais surtout identifier des axes de recherche et lever une piste, des pistes, à suivre.
+Si ces 4 tâches peuvent sembler successives, nous les avons en fait mené de front, en parallèle, progressant pas à pas, selon les éléments collectés, selon les questions et hypothèses que nous souhaitions poser, selon les choix techniques que nous faisions pour les résoudre. Si l'on devait un jour aboutir ce projet, si tant est que cela soit possible, notre estimation du travail effectué se situe aux alentours de 10%. 10% qui nous ont servi à débrousailler un corpus, élaborer une chaine d'archivage, produire quelques visualisations, mais surtout identifier des axes de recherche et lever une piste, des pistes, à suivre.
 
 A nouveau, au-delà de la question ontologique de ce qu'est Instin, de ce qu'il nous dit des modes de publications, de la littérature contemporaine, du réel, lorsque chacun de ces champs d'actions ou champs d'études sont confrontés et travaillés dans la culture numérique, au delà de ces questions donc, a rapidement émergé la question épistémologique de ce que nous faisions d'Instin, dans une démarche auto-réflexive, récursive, tout à fait fertile puisque venant en miroir éclairer la première. Nous allons voir comment.
 
@@ -328,7 +328,38 @@ A nouveau, au-delà de la question ontologique de ce qu'est Instin, de ce qu'il 
 <!-- .slide: data-background-image="img/inventaireAtom.png" -->
 <!-- .slide: class="hover"-->
 
-### _inventaire (.xml)_
+### _inventaire(.md)_
+
+* Recherche, collecte et indexation :
+
+  1. Exploration du corpus par propagation hypertextuelle
+
+
+===
+
+L'inventaire s'est déroulé en trois temps :
+  1. Exploration du corpus par propagation hypertextuelle
+  2. Captation systématique (en cours)
+  3. Ajout de sources antérieures à GI
+
+Dans un premier temps, l'objectif était de faire un ballon d'essai avec 10 items, de réfléchir à leur indexation, aux métadonnées dont nous aurions besoin. Nous sommes partis d'un texte intitulé «G.I. [04.06.09]», publié sur la plateforme Remue.net sous le nom de fichier article3322.html. Nous l'avons indexé, et recensé les liens hypertextes contenus dans le texte.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/propagationHypertextuelle.png"  data-background-size="contain" -->
+
+===
+
+Nous avons alors suivi le premier lien hypertexte, menant au texte intitulé «La campagne d'Egypte» (article1524.html), puis le second, et ainsi de suite, chaque nouveau texte nous menant soit à de nouveaux items, soit à des items déjà collectés.
+
+Cette démarche n'était pas tout à fait arbitraire, même si son point de départ l'était, car elle était guidée par l'idée que les textes s'écrivaient ensemble, se répondaient entre eux, et formaient en fait une certaine unité, informe pour le moment, mais dont les hyperliens traçaient des pistes de lecture et d'écriture, comme le début d'une matrice de sens qu'il restait à dévoiler.
+
+Il ne nous a pas échappé cependant que cette exploration par propagation hypertextuelle devait en principe remonter le temps d'Instin, les auteurs ne pouvant se référer à des textes postérieurs. A moins peut-être qu'une main (ou qu'une intelligence artificielle) ne complexifie la matrice en éditant les textes publiés de nouveaux hyperliens vers des textes plus récents. Ce que nous découvrirons par la suite.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/inventaireAtom.png" -->
+<!-- .slide: class="hover"-->
+
+### _inventaire(.xml)_
 
 * Recherche, collecte et indexation :
 
@@ -339,18 +370,6 @@ A nouveau, au-delà de la question ontologique de ce qu'est Instin, de ce qu'il 
 Actuellement <i class="fa fa-arrow-right"></i> 76 _manifestations_ (dont 90% sources web)
 
 ===
-
-L'inventaire s'est déroulé en trois temps :
-  1. Exploration du corpus par propagation hypertextuelle
-  2. Captation systématique (en cours)
-  3. Ajout de sources antérieures à GI
-
-Dans un premier temps, l'objectif était de faire un ballon d'essai avec 10 items, de réfléchir à leur indexation, aux métadonnées dont nous aurions besoin. Nous sommes partis d'un texte intitulé «G.I. [04.06.09]», publié sur la plateforme Remue.net sous le nom de fichier article3322.html. Nous l'avons indexé, et recensé les liens hypertextes contenus dans le texte.
-Nous avons alors suivi le premier lien hypertexte, menant au texte intitulé «La campagne d'Egypte» (article1524.html), puis le second, et ainsi de suite, chaque nouveau texte nous menant soit à de nouveaux items, soit à des items déjà collectés.
-
-Cette démarche n'était pas tout à fait arbitraire, même si son point de départ l'était, car elle était guidée par l'idée que les textes s'écrivaient ensemble, se répondaient entre eux, et formaient en fait une certaine unité, informe pour le moment, mais dont les hyperliens traçaient des pistes de lecture et d'écriture, comme le début d'une matrice de sens qu'il restait à dévoiler.
-
-Il ne nous a pas échappé cependant que cette exploration par propagation hypertextuelle devait en principe remonter le temps d'Instin, les auteurs ne pouvant se référer à des textes postérieurs. A moins peut-être qu'une main ou qu'une intelligence artificielle ne complexifie la matrice en éditant les textes publiés de nouveaux hyperliens vers des textes plus récents. Ce que nous découvrirons par la suite.
 
 A partir de 10, nous avons créé un fichier inventaire en xml et nous avons poursuivi cette approche par propagation hypertextuelle jusqu'à 30 items.
 
@@ -372,7 +391,6 @@ La chaine est présentée ici de manière linéaire là les différentes étapes
 ### TEI
 * HTML to TEI
 * Paradoxe
-* Marginalité
 
 ===
 
@@ -380,7 +398,7 @@ Nous avons fait le choix de produire une archive en TEI, selon un schéma qui co
 
 Ce choix qui était dans un premier temps presque une évidence vis à vis de notre démarche s'est avéré paradoxal vis-à-vis de la nature du corpus.
 
-Evidence, car tout d'abord, en tant que digital humanist, nous nous inscrivions ainsi dans une communauté de pratique, en bénéficiant de ses ressources et de son expérience. Mais aussi évidence, car notre approche était initialement centrée sur le texte, anticipant déjà tout le texte mining à faire sur un contenu aussi disparate.
+Évidence, car tout d'abord, en tant que digital humanist, nous nous inscrivions ainsi dans une communauté de pratique, en bénéficiant de ses ressources et de son expérience. Mais aussi évidence, car notre approche était initialement centrée sur le texte, anticipant un travail de texte mining prometteur sur un contenu aussi disparate.
 
 Et pourtant... d'une part le corpus se révèle beaucoup plus transmédiatique qu'une simple collection de texte, et donc potentiellement peu adéquate aux orientations de la TEI. Par ailleurs, il n'était pas question de procéder à un encodage fin des aspects de mise en forme, pour lequel se déploie toute la puissance de la TEI sur de l'encodage de manuscrit par exemple.
 
@@ -388,23 +406,22 @@ Mais surtout, pour ceux qui ont déjà eu à faire à la conception ou la manipu
 
 Malgré tout, dans ces premiers pas de collections de textes présent sur le web, le passage d'un format HTML à un autre format continue de faire sens pour la production d'une archive.
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/instin_1_redimensionnee-2.jpg" data-background-size="cover" -->
+
+### Marginalité
+
+source image: _Il est passé par ici. Il repassera par là. (1)_ sur Remue.net
+
+<!-- .element: class="source" -->
+
+===
 En fait, ce que soulève la question du format pour un corpus tel que le notre, c'est l'inadéquation d'une certaine littérature, qui, en renouant avec certaines formes d'oralité et de performativité, demeure à la marge des circuits d'édition traditionnels.
 
 Pour les acteurs du collectif GI, cette marginalité est bien entendu un geste autant artistique que politique. Mais cela ne change rien au fait que leur absence des circuits de légitimation est problématique, notamment pour sa pérennité. Servanne reviendra sur ce point un peu plus tard.
 
-Notre démarche d'archivage du Général Instin s'inscrit complètement dans cette problématique de la marge, en condensant dans un même geste scientifique, la collecte, l'étude et l'éditorialisation de l'archive.
+Notre démarche d'archivage du Général Instin s'inscrit complètement dans cette problématique de la marge, auquel nous répondons par la remise en circulation des résultats de notre étude, en condensant dans un même geste scientifique, la collecte, l'étude et l'éditorialisation de l'archive.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Composition3Graphes_large.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-### Exploration et visualisation des données
-Étude des dynamiques dispositives
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/timeline.png" -->
-<!-- .slide: class="hover"-->
-### Exploration et visualisation des données
-Construction d'une timeline GI
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/archive.png" -->
@@ -416,11 +433,50 @@ Double dynamique :
   * ouverture et continuité : rendre l'archive publique et appropriable
   * réflexivité : que nous dit le design de l'archive sur le dispositif GI lui-même
 
+===
+
+Et c'est là que se joue l'enjeu épistémologique du projet, dont l'enjeu n'est pas simplement l'archivage d'instin, mais l'éditorialisation de l'archive, et l'espace ainsi produit.
+
+L'éditorialisation de l'archive nous inscrit dans une double dynamique :
+
+1. en ouvrant l'archive au public, aux communautés de chercheurs et d'auteurs, nous nous inscrivons dans la continuité de l'esprit Instin, dont une des pierres angulaires est l'appropriation. L'archive vient donc à la fois refléter le GI, mais aussi l'étendre, le remettre en mouvement et générer potentiellement de nouvelles écritures.  L'ouverture et la continuité qui caractérisent l'éditorialisation s'appliquent pleinement dans notre démarche.
+  * ce qui nous fait poser la question : sommes nous certains que toute cette production scientifique est un épiphénomène lié à instin, ou participe-t-elle d'instin ? est-on en train de produire sur la matrice instin, nous sommes nous vraiment extraits de la rhétorique instinienne ?
+2. par ailleurs, une dynamique de réflexivité car le design même de l'archive que nous produisons, ce dispositif d'éditorialisation, ou encore cet espace Instin Studies, nous dit des choses du dispositif Instin ou de l'espace, du milieu Instin. Et c'est pourquoi l'archive et son éditorialisation n'est pas l'aboutissement du projet, mais peut-être le commencement d'une réponse sur ce qu'est le dispositif Instin, sur ce qu'est Instin et comment il procède, ou plutôt en tant que fait littéraire, comment il performe le réel.
+  * Ce pari est celui d’un dialogue entre le dispositif de publication littéraire du GI et le dispositif d’une archive scientifique. Un dialogue tout en tension, tout en contradiction peut-être, mais dont la démarche fait sens pour considérer l’archive non pas comme une tentative de totalisation de GI, mais plutôt de projection en miroir, elle-même excroissance du projet.
+
+Instin travaille notre archive, comme l'archive travaille Instin, et ces deux performativités produisent et sont la production de deux espaces distincts.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/vitrailOriginal.jpg" data-background-size="contain" -->
 ### Réflexion épistémologique
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/1-12.jpg" data-background-size="contain" -->
+
+### INSTIN
+
+<!-- .element: style="width:45%; float:left; display:in-line-block" -->
+
+### INSTIN STUDIES
+
+<!-- .element: style="width:45%; float:left; display:in-line-block; margin-left:10%" -->
+
+source image: _Un homme parle –Autopsie de l’esprit_ sur remue.net
+
+<!-- .element: class="source" -->
+
+
+===
+
+On le voit, Instin Studies se positionne comme en miroir d'Instin, et ce à plusieurs niveaux :
+* il le duplique, s'en fait l'écho
+* il le déforme, l'encode
+* il l'étend, ou le poursuit, perpétue sa dynamique
+* il produit des vues : à chaque requête sur les données correspond un angle, un point de vue, révélant une nouvelle facette
+* à la performativité de l'un répond la performativité de l'autre
+* de l'anthologie à la collection
+* de la marge à l'institutionnalisation
+* à l'environnement-dispositif de l'un répond le dispositif de l'autre
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/00-schema1-01floucinetique-2.jpg" data-background-size="contain" -->
@@ -499,6 +555,19 @@ source image: _STREET-ART CAMPAGNE INSTIN_ sur sp38.com
 source image: _Général Instin_ sur facebook.com
 
 <!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Composition3Graphes_large.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+### Exploration et visualisation des données
+Étude des dynamiques dispositives
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/timeline.png" -->
+<!-- .slide: class="hover"-->
+### Exploration et visualisation des données
+Construction d'une timeline GI
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
