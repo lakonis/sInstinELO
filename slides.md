@@ -185,6 +185,11 @@ Comment se transforment la production, la circulation et la légitimation des co
 
 ## Les Instin Studies : projet d'étude d'un corpus fantôme
 
+===
+Quoi de mieux pour mesurer l'efficacité du concept d'éditorialisation dans le champ des études littéraires, que de le confronter à un corpus hétérogène, mouvant, insaisissable, dont la nature serait en quelque sorte de ne pas avoir de nature, ou du moins d'en changer tout le temps.
+
+Notre attention s'est ainsi portée sur le cas du projet Instin, qui semblait mobiliser différentes stratégies d'éditorialisation, en investissant les problématiques qui nous sont chères: espace, autorité, frontières imaginaire/réel.
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instinss.jpg" -->
 
@@ -194,6 +199,9 @@ source image: _Quand on écrira l’histoire secrète du vingt et unième siècl
 
 <!-- .element: class="source" -->
 
+===
+Hinstin, c'est d'abord le nom d'un général du XIXe siècle, mort et enterré en 1905 et dont la tombe, au cimetière du Montparnasse, est ornée d'un vitrail sur lequel le portrait photographique du défunt est lui-même en train de se décomposer.
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/vitrailOriginal.jpg" data-background-size="contain"-->
 
@@ -201,10 +209,21 @@ source image: _introduction au feuilleton collectif Général Instin_ sur remue.
 
 <!-- .element: class="source" -->
 
+===
+
+En 1997, la photographe Juliette Soubrier saisit plusieurs clichés de ce portrait fantomatique.
+
+La même année (1997) Patrick Chatelier, écrivain français, reprend cette photo pour la proposer comme contrainte créative lors d'une soirée de performance au squat artistique de la Grange aux belles (Paris).
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/revueGeste.png" data-background-size="contain"-->
 
 source image: revue-geste.fr  <!-- .element: class="source" -->
+
+===
+Cette photo du Général va inspirer les artistes présents, et marquer le début d'un collectif relativement informel (bien que très pro-actif), qui donnera lieu à quelques publications papier - et à différents atelier littéraires (+/- formels là aussi).
+
+Entre temps, Hinstin a perdu son "H" qui le faisait personnage historique, pour devenir un matériau narratif, platisque, sémiotique. Il devient ainsi Général Instin svt abrégé GI.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/item-026.png" data-background-size="contain" -->
@@ -212,26 +231,41 @@ source image: revue-geste.fr  <!-- .element: class="source" -->
 source image: remue.net
 
 <!-- .element: class="source" -->
+===
+Rapidement, GI insvestit la plateforme Remue.net, qui va jouer un rôle d'agrégateur / centralisateur des productions consacrées à Instin : poèmes, récits, beaucoup d'images, des vidéos et enregistrements (car bcp de lectures et d'ateliers commencent à être archivés).
+
+Désormais, GI a pris racine dans l'hypertexte, et commence à hanter le web.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/item-036.png" data-background-size="contain" -->
 
 source image: generalinstin.net  <!-- .element: class="source" -->
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/instinPapier.png" -->
-
+===
+Ainsi, il se permet des incursions sur d'autres plateformes, à travers certaines expériences qui gagnent leur autonomie - nous avons nommés "Spin-off" ces expériences.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/toutesLesImages.png" -->
 
+===
+Les productions reliées au GI contiennent un aspect intermédial très fort, avec une production iconographique importante et foisonnante.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Hinstin-famille.jpg" -->
 
 source image: BNF  <!-- .element: class="source" -->
 
+===
+Au cours des années 2000, Retour de bâton : le collectif redécouvre que la famille Hinstin (avec son H), a en fait partie liée depuis longtemps avec la littérature et les arts - présent chez Jarry, Kessel.
+
+La BNF dispose même d'un fonds d'archive photo de la famille (qui d'ailleurs est bien connue des spécialistes de Lautréamont). Comme quoi l'Histoire et l'histoire ne sont finalement pas si cloisonnées.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/instinPapier.png" -->
+
+===
+Enfin, depuis l'an dernier, Instin est devenu une figure auctoriale à part entière. Pour fêter cela, il a réinvesti le modèle éditorial imprimé, aux Éditions du Nouvel Attila, qui lui a même dédié une collection à lui seul : la collection Othello. Trois ouvrages ont été déjà publiés.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/corpusFantome.png" -->
@@ -239,6 +273,9 @@ source image: BNF  <!-- .element: class="source" -->
 source image: _lexique généraliste_ sur remue.net
 
 <!-- .element: class="source" -->
+
+===
+Le corpus Instin est donc un corpus fantôme.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/oeil.jpg" data-background-size="contain" -->
