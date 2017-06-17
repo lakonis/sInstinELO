@@ -497,6 +497,40 @@ On le voit, Instin Studies se positionne comme en miroir d'Instin, et ce à plus
 * de la marge à l'institutionnalisation
 * à l'environnement-dispositif de l'un répond le dispositif de l'autre
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/rubon622.jpg" -->
+
+### Dispositif GI ?
+
+===
+
+Ainsi la première question que l'on s'est posé  : quel est le dispositif Instin ? Quel est l'agencement des forces et des autorités qui ont engendré son écriture.
+
+Qui écrit ? où ? mais aussi comment écrit-on Instin ? Y a t il des motifs récurrents et si oui, d'où viennent-ils ? cad aussi, qu'est ce qui _prédispose_ l'écriture du GI ?
+
+Première intuition: il n'y a pas de dispositif : Les méta-discours qui accompagnent les différents fragments d'instin insistent sur le fait qu'instin est un projet sans forme, sans autorité, que tout à chacun peut s'approprier le général, produire un texte, commettre une performance, etc.
+
+Cette intuition est aussi renforcée par l'élongation dans le temps du projet, le fait que les textes et les formes semblent s'accumuler sans poursuivre un objectif précis, si ce n'est celui de produire, aussi celui de faire collectif, celui d'une rhétorique (rhétorique dispositive).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/vitrailOriginal.jpg"   data-background-size="contain"  -->
+
+===
+
+Productions touffue, oeuvre indéfinissable, collectif multi-forme, ou plutôt à géométrie variable : produit un sentiment d'insaisissabilité du projet et de l'oeuvre, similaire au sentiment face à cette photo du vitrail : une figure insaisissable, aux contours flous, même la direction du regard s'est perdue.
+
+[Vitrail]
+
+Enfin, c'est l'effacement des auteurs, derrière la figure du général, tout à la fois sujet, narrateur, auteur, dans le glissement auctoriale que Servanne a mentionné.
+
+Toutes ces raisons laissent penser que le dispositif est absent.
+
+C'est cette absence supposée de dispositif qui permet justement de poser en creux la question du dispositif, et de se demander ce qu'il devient dans un tel projet, comment il opère, et s'il n'est plus là, qu'est ce qui le remplace.
+Autrement dit, de même qu'Instin constitue intuitivement un cas d'étude idéal de littérature contemporaine, il pourrait nous éclairer sur la nature d'un environnement-dispositif, c'est à dire sur une forme de dispositif ouvert à toute forme d'appropriation de lui-même.
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/00-schema1-01floucinetique-2.jpg" data-background-size="contain" -->
 
