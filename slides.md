@@ -180,6 +180,9 @@ On a dit que l'édito produit l'espace: mais qu'est-ce que l'espace?
 
 Comment se transforment la production, la circulation et la légitimation des contenus littéraires ?
 
+===
+Nous venons de présenter une théorie très générale de l'éditorialisation. Mais que se passe-t-il dans un contexte littéraire ?
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/generalinstinVitrail.jpg" -->
 
@@ -188,7 +191,7 @@ Comment se transforment la production, la circulation et la légitimation des co
 ===
 Quoi de mieux pour mesurer l'efficacité du concept d'éditorialisation dans le champ des études littéraires, que de le confronter à un corpus hétérogène, mouvant, insaisissable, dont la nature serait en quelque sorte de ne pas avoir de nature, ou du moins d'en changer tout le temps.
 
-Notre attention s'est ainsi portée sur le cas du projet Instin, qui semblait mobiliser différentes stratégies d'éditorialisation, en investissant les problématiques qui nous sont chères: espace, autorité, frontières imaginaire/réel.
+Notre attention s'est ainsi portée sur le cas Instin, qui semblait mobiliser différentes stratégies d'éditorialisation, en investissant les problématiques qui nous sont chères: espace, autorité, frontières imaginaire/réel.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instinss.jpg" -->
@@ -275,7 +278,12 @@ source image: _lexique généraliste_ sur remue.net
 <!-- .element: class="source" -->
 
 ===
-Le corpus Instin est donc un corpus fantôme.
+Instin est donc un corpus fantôme.
+La métaphore peut sembler facile pour parler d'une figure elle-même spectrale, mais elle revendiquée par le collectif.
+[CITER]
+Nous tenons tout particulièrement à cette expression qui évoque l'un de nos principaux défis : par sa nature processuelle, une partie de notre corpus semble toujours un peu sur le point de se dérober, voire sur le point de disparaître. En même temps, ce corpus est vivant et continue de se construire en même temps que nous l'étudions.
+
+Instin est un fantôme, performé par le récit sans cesse réitéré de sa disparition, qui lui donne finalement un supplément d'existence.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/oeil.jpg" data-background-size="contain" -->
@@ -286,6 +294,12 @@ Le corpus Instin est donc un corpus fantôme.
 * (ontologique) Qu'est-ce qu'Instin ? Pourquoi Instin ?
 * (épistémologique) Comment étudier Instin ? Influence de/sur l'objet ?
 
+===
+D'où nos deux problématiques majeures :
+
+1. Qu'est-ce qu'Instin exactement - qu'est-ce que ce fantôme qui performe sa propre disparition ? Que dit-il de notre époque ?
+2. Comment répondre à cette question ? Quelle méthodologie adopter pour étudier Instin?
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/sp38.png" -->
 
@@ -294,6 +308,9 @@ Le corpus Instin est donc un corpus fantôme.
 source image: _STREET-ART CAMPAGNE INSTIN_ sur sp38.com
 
 <!-- .element: class="source" -->
+
+===
+Ainsi sont nées les _Instin Studies_ (trouver musique solennelle pour accopagner ce moment)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/mashupInstin.png" -->
