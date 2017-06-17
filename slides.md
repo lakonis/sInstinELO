@@ -297,8 +297,10 @@ Instin est un fantôme, performé par le récit sans cesse réitéré de sa disp
 ===
 D'où nos deux problématiques majeures :
 
-1. Qu'est-ce qu'Instin exactement - qu'est-ce que ce fantôme qui performe sa propre disparition ? Que dit-il de notre époque ?
-2. Comment répondre à cette question ? Quelle méthodologie adopter pour étudier Instin?
+1. Une pbk ontologique : Qu'est-ce qu'Instin exactement - qu'est-ce que ce fantôme qui performe sa propre disparition ? Que dit-il de notre époque ?
+2. Une pbk épistémologique : Comment répondre à ces questions ? Quelle méthodologie adopter pour étudier Instin?
+
+Une chose est sûre : il faut déjà croire un peu aux fantômes pour s'occuper de cet objet littéraire - dont nous avons entrepris l'impossible archivage.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/sp38.png" -->
@@ -504,6 +506,8 @@ source image: _Instin, plans de coupe, vues générales._ sur remue.net
 
 <!-- .element: class="source" -->
 
+===
+Reprenons donc la question ontologique initiale: qu'est-ce qu'Instin ? Et pourquoi Instin fonctionne-t-il aussi bien ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/rosecompas_grand.jpg" data-background-size="contain" -->
@@ -514,12 +518,21 @@ source image: _Instin, plans de coupe, vues générales._ sur remue.net
 * Une contrainte créative
 * Un projet collectif
 * Un personnage de fiction
+* Un profil sur le web
 * Une figure auctoriale
-* L'Histoire et l'histoire
 
 source image: _La place du mort_ sur remue.net
 
 <!-- .element: class="source" -->
+
+===
+Instin est polymorphe - sa fonction et son statut littéraires en contantante évolution.
+
+Au squat de la Grange-aux-Belles, Patrick Chatelier transforme d'abord le portrait en contrainte d’écriture : « J’ai montré les photos, j’ai un peu personnifié le général et je me suis aperçu que les artistes présents s’en emparaient pour en faire leur propre chose. C’est là que c’est devenu collectif. ».
+
+C'est à ce moment aussi que Hinstin perd son « H qui le faisait humain historique » pour opérer ce passage vers la fiction et devenir personnage-entité. Tout le monde peut alors s’approprier cet « ancêtre universel » pour lui inventer une histoire et lui donner une seconde vie.
+
+Puis, récemment Instin est enfin devenu une figure auctoriale : son nom trône en couverture de 3 ouvrages (une anthologie, un récit de fiction, une traduction d'edgar Lee Masters). Sur les réseaux sociaux, il compte ses propres profils et parle en son nom. Au cours de ce processus d'éditorialisation, Instin s'est donc aussi autorisé.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/editionInstin.jpg" -->
@@ -533,6 +546,19 @@ source image: _La place du mort_ sur remue.net
 source image: _Général Instin_ sur facebook.com
 
 <!-- .element: class="source" -->
+
+===
+Ce qui nous intéresse notamment dans le projet GI est aussi ce qui nous cause le + de difficultés: GI se conçoit principalement dans un "hors-livre". C'est un projet éditorial complexe qui cependant s'inscrit en dehors de notre modèle éditorial traditionnel.
+
+Depuis le squat de la Grange aux belles, il s'inscrit relativement à la marge - par "marge" on entend celles, principalement, des institutions littéraires mais encore plus éditoriales. Instin est généré dans :
+- un squat
+- ateliers d'écriture
+- revues littéraires
+- revue en ligne (Remue)
+- sites web
+- réseaux sociaux (FB + Twitter où il a ses propres profils)
+
+Il est disséminé sur plusieurs supports, numériques/non-numériques, sur plusieurs plateformes, via des médias différents. Il occupe l'espace public - en même temps que l'espace public se redéfinit lui-même à l'ère numérique. De l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement du web, des réseaux sociaux qui sont détournés pour créer un profil "fictif", nous avons tendance à croire qu'il y a là une même stratégie d'occupation des marges et de détournement des institutions, qui est essentiel pour comprendre les mutations qui affectent la notion même de littérature.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
@@ -548,6 +574,11 @@ source image: _Général Instin_ sur facebook.com
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
+===
+Lionel Ruffel a proposé le terme de "littérature brouhaha" pour qualifier ce passage d'un imaginaire du littéraire centré sur le livre comme objet-support, à un imaginaire du littéraire centré sur une action et une pratique : la publication.
+[CITER]
+Ce que nous appelons éditorialisation est à l'origine de la littérature brouhaha de Ruffel.
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/sp38.png" -->
 
@@ -556,6 +587,13 @@ source image: _Général Instin_ sur facebook.com
 source image: _STREET-ART CAMPAGNE INSTIN_ sur sp38.com
 
 <!-- .element: class="source" -->
+
+===
+Ce que l'on qualifiera désormais de "gestes de publication" agit sur nos concepts littéraires hérités d'une culture éditoriale aujourd'hui mise à mal par le fait numérique.
+
+- l'auteur : qui fait place à un collectif, puis une figure auctoriale ouverte
+
+- l'oeuvre : qui semble n'avoir ni début ni fin et qui va se cristalliser sous une forme anthologique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/campagneNonOfficielle.png" -->
