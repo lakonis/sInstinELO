@@ -111,77 +111,86 @@ source image: Capture d'écran de la plateforme Kijiji le 13 juillet 2013 à 10h
 * ...aux pratiques éditoriales natives numériques
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/rhizome.jpg" -->
+<!-- .slide: data-background-image="./img/mashupInstin.png" -->
 <!-- .slide: class="hover"-->
 
->En d'autres termes, la différence entre édition et éditorialisation n'est pas qu'une différence d'outils. Elle suggère plutôt une différence culturelle : l'éditorialisation n'est pas notre façon de produire du savoir en utilisant des outils numériques ; c'est notre façon de produire du savoir à l'époque du numérique, ou mieux, dans notre société numérique.
+### La notion d'éditorialisation
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+* **2004-2007: apparition du mot**
+  * Une sorte d'édition dans l'environnement numérique
+  * Bachimont : passage d'un document non-numérique à un document numérique
 
-<!-- .slide: data-background-image="img/copistes.jpg" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
+* **2008: le terme s'institutionnalise**
+  * Sens public: formes de production et de circulation de la connaissance en environnement numérique
+  * Laboratoire MSH: Pratiques interdisciplinaires et circulation du savoir : vers une éditorialisation des SHS (Wormser, Vitali-Rosati)
 
-### Virtualiser la notion d’édition
+===
+(marcello est lancé)
+éditorialisation: penser un processus ouvert où auteurs, collectivités, plateformes, dynamiques pratiques sont mêlées et difficiles à retracer. pas curation, pas édition... éditorialisation
+pourtant ça produit une émergence de sens
 
-+ Besoins :
-   * conversationnel
-   * stabilisation / cristallisation
-   * herméneutique
-   * agrégation
+
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 ### Enjeux et fonctions de l'éditorialisation
-Comment garantir la production, la circulation et la légitimation du savoir à l'ère numérique ?
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/autorite.JPG" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
-
-### Éditorialisation: définition philosophico-pratique
-
->L'éditorialisation désigne l'ensemble des dynamiques qui produisent et structurent l'espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="./img/mashupInstin.png" -->
-<!-- .slide: class="hover"-->
-
-### Caractéristiques de l'éditorialisation
-
-- ouverte
-  - plusieurs plateformes
-  - plusieurs acteurs
-  - toujours inachevée
-- processuelle
-- collective
+Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
 
 ===
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/rhizome.jpg" -->
+<!-- .slide: class="hover"-->
+
+### Portée de l'éditorialisation
+
+>«La différence entre édition et éditorialisation n'est pas qu'une différence d'outils. Elle suggère plutôt une différence culturelle : l'éditorialisation n'est pas notre façon de produire du savoir en utilisant des outils numériques ; c'est notre façon de produire du savoir à l'époque du numérique, ou mieux, dans notre société numérique.»
+>
+> Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
 <!-- .slide: class="hover"-->
 
-### L'espace
 
-- Espace mathématique et espace social
-- L'espace porte des valeurs - le nomos de Schmitt (cf. Agostini-Marchese)
+### Production d'espace
+
+>«L'éditorialisation désigne l'ensemble des dynamiques qui produisent et structurent l'espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.»
+>
+> Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
 
 ===
-
-On a dit que l'édito produit l'espace: mais qu'est-ce que l'espace?
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/bon.jpg" data-background-size="contain"-->
+<!-- .slide: data-background-image="./img/mashupInstin.png" -->
 <!-- .slide: class="hover"-->
 
-### Éditorialisation et littérature ?
+### Editorialisation et littérature
 
-Comment se transforment la production, la circulation et la légitimation des contenus littéraires ?
+>«Le fait de penser le geste de production des contenus numériques comme un geste de production de l’espace nous permet justement d’aller au-delà de l’opposition imaginaire/réel. Les pratiques, les discours et les technologies impliquées dans un geste d’éditorialisation ont comme résultat l’agencement d’un espace tout à fait réel, à savoir l’espace dans lequel nous vivons.»
+>
+> Monjour,
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+
 
 ===
+(anciennes notes)
 Nous venons de présenter une théorie très générale de l'éditorialisation. Mais que se passe-t-il dans un contexte littéraire ?
+
+éditorialisation produit l'espace, produit le réel : de meme que la littérature participe également de la production du réel (lien imaginaire-réel) :
+notre cas d'étude tente de confirmer le lien entre éditorialisation et littérature et les similitudes de modes de productions du réel.
+
+
+article SP "fait littéraire" : le numérique met en lumière le brouillage qui a toujours existé entre imaginaire et réel.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/generalinstinVitrail.jpg" -->
