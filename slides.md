@@ -506,24 +506,11 @@ On le voit, Instin Studies se positionne comme en miroir d'Instin, et ce à plus
 * de la marge à l'institutionnalisation
 * à l'environnement-dispositif de l'un répond le dispositif de l'autre
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-<!-- .slide: data-background-image="img/rubon622.jpg" -->
-
-### Dispositif GI ?
-
-===
-
-Ainsi la première question que l'on s'est posé  : quel est le dispositif Instin ? Quel est l'agencement des forces et des autorités qui ont engendré son écriture.
-
-Qui écrit ? où ? mais aussi comment écrit-on Instin ? Y a t il des motifs récurrents et si oui, d'où viennent-ils ? cad aussi, qu'est ce qui _prédispose_ l'écriture du GI ?
-
-Première intuition: il n'y a pas de dispositif : Les méta-discours qui accompagnent les différents fragments d'instin insistent sur le fait qu'instin est un projet sans forme, sans autorité, que tout à chacun peut s'approprier le général, produire un texte, commettre une performance, etc.
-
-Cette intuition est aussi renforcée par l'élongation dans le temps du projet, le fait que les textes et les formes semblent s'accumuler sans poursuivre un objectif précis, si ce n'est celui de produire, aussi celui de faire collectif, celui d'une rhétorique (rhétorique dispositive).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/vitrailOriginal.jpg"   data-background-size="contain"  -->
+
+### Dispositif GI ?
 
 ===
 
@@ -584,6 +571,7 @@ S'il est difficile de parler de "bouleversement" ou de mutation totale de la lit
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/editionInstin.jpg" -->
+<!-- .slide: class="hover"-->
 
 ### Un modèle hors-livre
 
@@ -625,11 +613,17 @@ L'éditorialisation a partie liée avec la littérature brouhaha de Ruffel : ell
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/sp38.png" -->
+<!-- .slide: class="hover"-->
 
 ### Gestes de publication
 
 
->L’écriture numérique s’offre également comme un ciel ouvert, un chantier, une progression ininterrompue et non téléologique, un dialogue constant et tendu avec les formes. En s’offrant comme milieu, comme écosystème, l’expérience directe du processus de l’écriture s’intensifie.
+>«L’écriture numérique s’offre également comme un ciel ouvert, un chantier, une progression ininterrompue et non téléologique, un dialogue constant et tendu avec les formes. En s’offrant comme milieu, comme écosystème, l’expérience directe du processus de l’écriture s’intensifie.»
+>
+> Sébastien Rongier, _Le_ Général Instin, _les vies multiples du littéraire_
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
 
 source image: _STREET-ART CAMPAGNE INSTIN_ sur sp38.com
 
@@ -644,7 +638,10 @@ L'éditorialisation agit ainsi sur nos concepts littéraires hérités d'une cul
 
 - l'oeuvre : qui semble n'avoir ni début ni fin et qui va se cristalliser sous une forme anthologique
 
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 <!-- .slide: data-background-image="img/campagneNonOfficielle.png" -->
 <!-- .slide: class="hover"-->
 
@@ -660,15 +657,132 @@ source image: _Général Instin_ sur facebook.com
 
 <!-- .element: class="source" -->
 
+===
+
+Ainsi la première question que l'on s'est posé  : quel est le dispositif Instin ? Quel est l'agencement des forces et des autorités qui ont engendré son écriture.
+
+Qui écrit ? où ? mais aussi comment écrit-on Instin ? Y a t il des motifs récurrents et si oui, d'où viennent-ils ? cad aussi, qu'est ce qui _prédispose_ l'écriture du GI ?
+
+Première intuition: il n'y a pas de dispositif : Les méta-discours qui accompagnent les différents fragments d'instin insistent sur le fait qu'instin est un projet sans forme, sans autorité, que tout à chacun peut s'approprier le général, produire un texte, commettre une performance, etc.
+
+Cette intuition est aussi renforcée par l'élongation dans le temps du projet, le fait que les textes et les formes semblent s'accumuler sans poursuivre un objectif précis, si ce n'est celui de produire, aussi celui de faire collectif, celui d'une rhétorique (rhétorique dispositive).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="./img/Composition3Graphes_large.png" data-background-size="cover" -->
+<!--  .slide: class="hover"-->
+
+* un ensemble ouvert et dynamique, mais fini
+* deux structures classiques :
+  1. organisation arborescente
+  2. organisation rhizomatique
+* centralité de certains acteurs et plateformes
+
+===
+L'archivage en cours de GI nous amène finalement à cerner le corpus en un ensemble fini. Avec un nombre d’auteurs, de contributions, de plateformes maîtrisables. Elle nous montre par ailleurs que c'est un corpus organisé et distribué dans des rubriques identifiées.
+
+Il y a là deux organisations qui se font face : celle arborescente des plateformes (voir les rubriques de Remue.net), et celle rhizomatique des textes hyperliées.
+
+En fait, ce que nous a montré nos premiers pas dans la constitution de l'archive GI, c'est qu'il existe malgré tout des noeuds de cristallisation, des acteurs à la centralité plus ou moins prégnante, des formes, elles-mêmes investies de leur dispositif.
+
+
+Ici, nos premiers pas dans la fouille de données : extraire tous les liens contenus dans le corps de texte du corpus et à produire une matrice d'adjacence à partir de ces liens. Cela nous donne un réseau de documents que nous avons pu spatialiser.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/20170509_1_white.png) <!-- .element: width="60%" -->
+
+_Forced-based spatialisation (Fruchterman Reingold)_  <!-- .element: style="font-size: 1.4rem" -->
+
+===
+Une première spatialisation (Fruchterman Reingold)
+
+utilisé pour ces premières exploration pour garder un visualisation relativement neutre, révélant des relations sans trop les caractériser : nous permet de garder un lien particulier avec les sources et poursuivre une lecture rapprochée :
+
+réseau de documents, nous montre très clairement que le corpus s'agence et se partitionne
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/20170509_2_white.png) <!-- .element: width="60%" -->
+
+Centralité de vecteur propre  <!-- .element: style="font-size: 1.4rem" -->
+
+===
+Ainsi, un calcul de centralité vient confirmer qu'il existe dans ce corpus des hubs, des textes plus importants que les autres, davantage cités que les autres, ...
+
+(centralité de vecteur propre (eigen vector))
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+![](img/20170509_3_remue1524.png) <!-- .element: width="50%" -->
+![](img/item-002_crop.png) <!-- .element: width="40%" -->
+
+_La campagne d’Égypte_, Patrice Chatelier (2006)  
+
+<!-- .element: style="font-size: 1.4rem" -->
+
+===
+comme c'est le cas de La Campagne d'Egypte de Patrice Chatelier, un des premiers textes du GI sur remue.net.
+
+peut-être biaisé par le fait que notre première approche pour la collection du corpus (pour les 30 premiers items) a été de procéder par propagation à partir des liens hypertextes, et que donc nécessairement, les premiers items collectés sont particulièrement connectés entre eux.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/20170509_3_white.png) <!-- .element: width="60%" -->
+
+Modularité  <!-- .element: style="font-size: 1.4rem" -->
+
+===
+le calcul de modularité nous donne une partition en une dizaine de "communautés", ce qu'on n'interprétera pas à ce stade à cause d'un corpus incomplet, mais cela vient ...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/20170528_3_remue6133.png) <!-- .element: width="55%" -->
+![](img/remue6133_baseAcide.png) <!-- .element: width="40%" -->
+
+_Base acide_, Anne Kawala (2013)  
+
+<!-- .element: style="font-size: 1.4rem" -->
+
+===
+... aussi réveler **des formes d'écritures**, comme ce texte dont une trentaine de termes sont associés à une notice de wiktionnary.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/rubon622.jpg"  -->
+
+
+### «dispositive» _(adj.)_
+
+===
+
+Et ainsi, ces différentes manifestations produisent ensemble un archipel dont les contours sont finalement relativement identifiables.
+
+Pour mieux penser ce dispositif, nous faisons appel au glissement syntaxique introduit par Louise Merzeau et qui nous semble particulièrement pertinent et opérant :
+Louise parle en 2013 d'_action dispositive_, c'est-à-dire d'une action à la fois opérée dans la cadre d'un dispositif mais aussi contributive et constitutive du dispositif, puis de rhétorique dispositive. En 2016, elle parle encore de rhétorique dispositive, cette capacité d'écrire et de nous écrire dans l'environnemnt numérique ou environnement-dispositif.
+
+En glissant du concept à l'adjectif, nous abandonnons le _dispositif_, mais sans en abandonner la fonction.
+
+Ainsi, il n’y a pas de dispositif formel Général Instin, mais Instin produit un environnement _dispositif_ dans lequel les actions sont des _écritures dispositives_.
+
+Ce glissement n'est pas anodin, il permet de nous rapprocher de la nature-même du dispositif Instin, en tant que média, ou en tant que milieu, et par ailleurs d'invoquer la théorie de l'éditorialisation pour comprendre comment la nature environnementale du numérique travaille les dispositifs littéraires, tant du côté de l'écriture que de la lecture. Ce qui permet notamment de penser les pratiques d'écritures et de lectures non pas de facon hors-sol, mais liées par essence aux dispositifs ou plus exactement à leur milieu.
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Composition3Graphes_large.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
+
 ### Exploration et visualisation des données
 Étude des dynamiques dispositives
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/timeline.png" -->
 <!-- .slide: class="hover"-->
+
 ### Exploration et visualisation des données
 Construction d'une timeline GI
 
