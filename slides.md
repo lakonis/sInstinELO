@@ -312,7 +312,7 @@ source image: _STREET-ART CAMPAGNE INSTIN_ sur sp38.com
 <!-- .element: class="source" -->
 
 ===
-Ainsi sont nées les _Instin Studies_ (trouver musique solennelle pour accopagner ce moment)
+Ainsi sont nées les _Instin Studies_ (trouver musique solennelle pour accompagner ce moment)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/mashupInstin.png" -->
@@ -428,7 +428,7 @@ Malgré tout, dans ces premiers pas de collections de textes présent sur le web
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instin_1_redimensionnee-2.jpg" data-background-size="cover" -->
 
-### Marginalité
+### MarGInalité
 
 source image: _Il est passé par ici. Il repassera par là. (1)_ sur Remue.net
 
@@ -541,7 +541,7 @@ source image: _Instin, plans de coupe, vues générales._ sur remue.net
 <!-- .element: class="source" -->
 
 ===
-Reprenons donc la question ontologique initiale: qu'est-ce qu'Instin ? Et pourquoi Instin fonctionne-t-il aussi bien ?
+Reprenons donc la question ontologique initiale: qu'est-ce qu'Instin ? Ce nous a d'abord frappé - et ce qui a d'ailleurs guidé notre collecte - c'est l'incroyable pouvoir de propagation d'Instin, qui se répand comme une traînée de poudre. Pourquoi Instin fonctionne-t-il aussi bien - pourquoi fédère-t-il autant - comment a-t-il réussi à soulever une telle armée de contributeurs ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/rosecompas_grand.jpg" data-background-size="contain" -->
@@ -560,13 +560,18 @@ source image: _La place du mort_ sur remue.net
 <!-- .element: class="source" -->
 
 ===
-Instin est polymorphe - sa fonction et son statut littéraires en contantante évolution.
+Première réponse: le critère d'appropriabilité. Instin est polymorphe - sa fonction et son statut littéraires en constantante évolution, au gré de nombreuses appropriations.
 
 Au squat de la Grange-aux-Belles, Patrick Chatelier transforme d'abord le portrait en contrainte d’écriture : « J’ai montré les photos, j’ai un peu personnifié le général et je me suis aperçu que les artistes présents s’en emparaient pour en faire leur propre chose. C’est là que c’est devenu collectif. ».
 
 C'est à ce moment aussi que Hinstin perd son « H qui le faisait humain historique » pour opérer ce passage vers la fiction et devenir personnage-entité. Tout le monde peut alors s’approprier cet « ancêtre universel » pour lui inventer une histoire et lui donner une seconde vie.
 
 Puis, récemment Instin est enfin devenu une figure auctoriale : son nom trône en couverture de 3 ouvrages (une anthologie, un récit de fiction, une traduction d'edgar Lee Masters). Sur les réseaux sociaux, il compte ses propres profils et parle en son nom. Au cours de ce processus d'éditorialisation, Instin s'est donc aussi autorisé.
+
+S'il est difficile de parler de "bouleversement" ou de mutation totale de la littérature à l'ère numérique, Instin incarne cependant des tendances ou des traits saillants des nouvelles pratiques d'écriture :
+- une forte tendance à l'appropriation, et son corollaire :
+- une ouverture du concept d'autorité
+- un déplacement - ou en tout cas, une revalorisation d'une écriture qui se déploie hors du livre.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/editionInstin.jpg" -->
@@ -582,17 +587,13 @@ source image: _Général Instin_ sur facebook.com
 <!-- .element: class="source" -->
 
 ===
-Ce qui nous intéresse notamment dans le projet GI est aussi ce qui nous cause le + de difficultés: GI se conçoit principalement dans un "hors-livre". C'est un projet éditorial complexe qui cependant s'inscrit en dehors de notre modèle éditorial traditionnel.
+Ce qui nous intéresse notamment dans le projet GI est aussi ce qui nous cause le + de difficultés: GI se conçoit principalement dans un "hors-livre", en rupture avec notre modèle éditorial moderne.
 
-Depuis le squat de la Grange aux belles, il s'inscrit relativement à la marge - par "marge" on entend celles, principalement, des institutions littéraires mais encore plus éditoriales. Instin est généré dans :
-- un squat
-- ateliers d'écriture
-- revues littéraires
-- revue en ligne (Remue)
-- sites web
-- réseaux sociaux (FB + Twitter où il a ses propres profils)
+Depuis le squat de la Grange aux belles, Instin s'est toujours s'inscrit relativement à la marge - des institutions littéraires ou éditoriales traditionnelles.
 
-Il est disséminé sur plusieurs supports, numériques/non-numériques, sur plusieurs plateformes, via des médias différents. Il occupe l'espace public - en même temps que l'espace public se redéfinit lui-même à l'ère numérique. De l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement du web, des réseaux sociaux qui sont détournés pour créer un profil "fictif", nous avons tendance à croire qu'il y a là une même stratégie d'occupation des marges et de détournement des institutions, qui est essentiel pour comprendre les mutations qui affectent la notion même de littérature.
+Il est disséminé sur plusieurs supports, numériques/non-numériques, sur plusieurs plateformes, via des médias différents. Qu'il s'affiche sur les murs de nos rues ou sur le web, Instin occupe l'espace public - en même temps qu'il participe à redéfinir l'espace public à l'ère numérique.
+
+De l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement du web, des réseaux sociaux qui sont détournés pour créer un profil "fictif", nous avons tendance à croire qu'il y a là une même stratégie d'occupation des marges et de détournement des institutions, qui est essentiel pour comprendre les mutations qui affectent la notion même de littérature.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
@@ -611,19 +612,24 @@ Il est disséminé sur plusieurs supports, numériques/non-numériques, sur plus
 ===
 Lionel Ruffel a proposé le terme de "littérature brouhaha" pour qualifier ce passage d'un imaginaire du littéraire centré sur le livre comme objet-support, à un imaginaire du littéraire centré sur une action et une pratique : la publication.
 [CITER]
-Ce que nous appelons éditorialisation est à l'origine de la littérature brouhaha de Ruffel.
+L'éditorialisation a partie liée avec la littérature brouhaha de Ruffel : elle en serait le moyen principal.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/sp38.png" -->
 
 ### Gestes de publication
 
+
+>L’écriture numérique s’offre également comme un ciel ouvert, un chantier, une progression ininterrompue et non téléologique, un dialogue constant et tendu avec les formes. En s’offrant comme milieu, comme écosystème, l’expérience directe du processus de l’écriture s’intensifie.
+
 source image: _STREET-ART CAMPAGNE INSTIN_ sur sp38.com
 
 <!-- .element: class="source" -->
 
 ===
-Ce que l'on qualifiera désormais de "gestes de publication" agit sur nos concepts littéraires hérités d'une culture éditoriale aujourd'hui mise à mal par le fait numérique.
+Ce que l'on qualifiera désormais de "gestes de publication" traduit une nouvelle conception de l'écriture comme "milieu", pour reprendre l'expression de Sébastien Rongier qui a consacré des travaux ++ au Général Instin.
+
+L'éditorialisation agit ainsi sur nos concepts littéraires hérités d'une culture éditoriale aujourd'hui mise à mal par le fait numérique.
 
 - l'auteur : qui fait place à un collectif, puis une figure auctoriale ouverte
 
@@ -711,11 +717,12 @@ Centralité de vecteur propre (by Nicolas) <!-- .element: style="font-size: 1.4r
 
 ### La question H
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/vitrailOriginal.jpg"-->
+===
+La question du H - dont la disparition ne fait finalement que rendre plus présente la question historique, pose question : confrontation entre l'objet littéraire et l'objet historique ?
 
-### Un mème ?
+Plutôt, idée que l'histoire est de toutes les façons en construction, pas en opposition avec la fiction.
 
+On pourrait se demander si, finalement, notre chronologie linéaire ne devrait pas se transformer en cercle où le réel viendrait mordre la queue du récit : la photographie du vitrail serait un point de basculement entre la chronologie de "vrai" général et celle du GI - qui finalement se sont mutuellement façonnés.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/G.I.-15h26--.jpg" data-background-size="contain"-->
