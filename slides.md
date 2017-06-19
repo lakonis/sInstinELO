@@ -759,7 +759,7 @@ _Base acide_, Anne Kawala (2013)
 <!-- .element: style="font-size: 1.4rem" -->
 
 ===
-... tout de même réveler **des formes d'écritures**, comme ce texte dont une trentaine de termes sont associés à une notice de wiktionnary.
+... tout de même réveler **des formes d'écritures**, comme ce texte d'Anne Kawala qui a travaillé sur le champs lexical du spectre et de la disparition et à ancrer ce champs lexical avec le site wiktionary.org.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -771,22 +771,23 @@ _Base acide_, Anne Kawala (2013)
 
 ===
 
-Et ainsi, ces différentes manifestations produisent ensemble un archipel dont les contours sont finalement relativement identifiables.
+Ce que suggère ces premières fouilles, ces premières visualisations d'un corpus encore incomplet, c'est que les _manifestations_ d'instin produisent ensemble un archipel dont les contours sont finalement relativement identifiables. Il existe bien une forme, ou des formes, un espace produit,  éditorialisé qui fait dispositif.
 
-Pour mieux penser ce dispositif, nous faisons appel au glissement syntaxique introduit par Louise Merzeau  :
+Pour mieux penser ce dispositif, nous reprenons le glissement syntaxique introduit par Louise Merzeau :
+
 Louise parle en 2013 d'_action dispositive_, c'est-à-dire d'une action à la fois opérée dans la cadre d'un dispositif mais aussi contributive et constitutive du dispositif.
 
 En 2016, elle parle encore de rhétorique dispositive, cette forme de discours et cette capacité de nous écrire dans l'environnement numérique ou environnement-dispositif.
 
-Ainsi, en glissant du concept à l'adjectif, nous abandonnons le _dispositif_, mais sans en abandonner la fonction, ce qui nous semble particulièrement pertinent et opérant pour embrasser la nature environnementale du numérique.
+Ainsi, en glissant du concept à l'adjectif, nous abandonnons le _dispositif_, notion potentiellement problématique, mais sans en abandonner la fonction, ce qui nous semble particulièrement pertinent et opérant pour embrasser la nature environnementale du numérique.
 
 De fait, il n’y a pas de dispositif formel Général Instin, mais Instin produit un environnement _dispositif_ dans lequel les actions sont des _écritures dispositives_, autrement dit, des écritures comme milieu.
 
-Ce glissement n'est pas anodin, il permet de nous rapprocher de la nature-même du dispositif Instin, en tant que média, ou en tant que milieu, et par ailleurs d'invoquer la théorie de l'éditorialisation pour comprendre comment cette nature environnementale du numérique travaille les dispositifs littéraires, tant du côté de l'écriture que de la lecture. Ce qui permet notamment de penser les pratiques d'écritures et de lectures non pas de façon hors-sol, mais liées par essence aux dispositifs ou plus exactement à leur milieu.
+Ce glissement n'est pas anodin, il permet de nous rapprocher de la nature-même du dispositif Instin, en tant que média, ou en tant que milieu, et par ailleurs d'invoquer la théorie de l'éditorialisation pour comprendre comment cette nature environnementale du numérique travaille les dispositifs littéraires, tant du côté de l'écriture que de la lecture. [Ce qui permet notamment de penser les pratiques d'écritures et de lectures non pas de façon hors-sol, mais liées par essence aux dispositifs ou plus exactement à leur milieu.]
 
 A quoi ce milieu prédispose ? à quoi l'écriture dispositive qu'est Instin prédispose ? : à la réécriture, à l'appropriation.
 
-C'est ce qui fait le lien entre éditorialisation et commun.
+Or, c'est ce changement radical de l'espace et de l'autorité, et cette prédisposition à l'appropriation qui produisent les conditions de possibilité d'un commun.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
