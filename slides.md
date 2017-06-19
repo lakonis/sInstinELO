@@ -9,7 +9,7 @@ Servanne Monjour, Nicolas Sauret, Marcello Vitali-Rosati
 ![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
 
 _Des humanités numériques littéraires ?_  
-15-22 juin 2017
+Cerisy - 15-22 juin 2017
 
 <!-- .element: style="font-size:1.4rem" -->
 
