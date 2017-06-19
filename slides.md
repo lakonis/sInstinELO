@@ -790,38 +790,6 @@ C'est ce qui fait le lien entre éditorialisation et commun.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/timeline.png" -->
-<!-- .slide: class="hover"-->
-
-# ??
-
-### Exploration et visualisation des données
-Construction d'une timeline GI
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/CV-GI-def.jpg" -->
-<!-- .slide: class="hover"-->
-
-### GI, une anthologie
-
-* Un collectif
-* Une figure auctoriale
-* Un "retour" au modèle imprimé?
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/oeil.jpg" -->
-<!-- .slide: class="hover"-->
-
-### Culture numérique, culture anthologique
-
-> «Comment expliquer le fait que l’anthologie soit la forme et le format par excellence de la civilisation numérique ? Les recueils de « fleurs » (anthos en grec veut dire « fleur »), censés tenir lieu d’une totalité difficilement accessible dans son intégralité, se sont généralisés, pour représenter non plus un choix ou une sélection dictés par des contraintes matérielles, mais plutôt des fragments conçus et formés pour la circulation et la transmission dans un environnement qui valorise une nouvelle manière de lire et d’écrire. Le fragment, ou toute pièce, tout document de n’importe quelle nature, est citable, mais surtout il se livre à des formes d’intégration dans des outils d’écriture qui sont presque toujours aujourd’hui des outils d’échange et de partage. Cette tournure anthologique, qui s’accentue avec les derniers outils et se confirme avec les nouvelles pratiques, implique une transformation déterminante de nos rapports avec les objets culturels de tous les genres et le savoir tout court. »
->
-> Milad Doueihi, _Pour un humanisme numérique_, Seuil, 2011
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/reveGeneral.png" -->
 
 ### Alors... qu'est-ce que, et pourquoi Instin ?
