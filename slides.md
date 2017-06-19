@@ -150,7 +150,7 @@ pourtant ça produit une émergence de sens
 Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
 
 ===
-Au regard de ce balisage préliminaire, notre problématique de recherche est donc la suivante : Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
+Au regard de ce balisage préliminaire, l'enjeu de l'éditorialisation et qui reste notre problématique de recherche est donc la suivante : Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
 
 <!-- poser ici la question de la spécificité du texte littéraire ?-->
 
