@@ -841,15 +841,33 @@ On pourrait se demander si, finalement, notre chronologie linéaire ne devrait p
 
 ## Conclusion : un projet instinien ?
 
+===
+Puisque l'un de nos objectifs est de publier notre archive, nous avons contacté l'équipe de Remue afin de leur présenter notre travail et leur demander l'autorisation de "republier" les textes.
+
+Patrick Chatelier nous a répondu "C’est un magnifique projet, résolument instinien."
+
+Nous voilà donc devenus instiniens, ce qui nous amène à rester très prudent et à redoubler d'attention quant à notre démarche.
+
+Sommes-nous en train d’institutionnaliser Instin ou, au contraire, sommes-nous en train de nous marginaliser nous-mêmes (ce qui serait d'ailleurs peut-être préférable)?
+
+Une chose est sûre : nous nourrissons la bête…
+
+Cette réflexion que nous menons aujourd'hui sur les Humanités numériques littéraires, s'inscrit probablement dans une réflexion épisémologique sur les études littéraires qui a en vérité traversé la seconde moitié du XXe siècle.
+
+Dans les années 1980, le médiéviste et comparatiste Paul Zumthor disait ainsi :
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/generalinstinVitrail.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 > «&nbsp;Depuis quelques années [le terme "littérature"] tend à se dissiper comme objet de connaissance, voire simplement de perception. Simultanément, le statut de l’«&nbsp;histoire de la littérature&nbsp;» est remis en question. De telles incertitudes ne sont pas propres à notre époque ; elles s’associent aux regrets qu’inspire périodiquement depuis trois siècles une prétendue décadence de la culture livresque : constante paradoxale, où l’on pourrait discerner les accès récurrents d’une nostalgie de la voix vive. Mais la logique discursive qui constitua notre « littérature » fonctionne aujourd’hui de pis en pis ; une menace d’aliénation connote plus ou moins tous les sens produits par elle. Preuve en soit la fortune dont jouit pendant une vingtaine d’années la «&nbsp;théorie littéraire&nbsp;» : compensation — peut-être honteuse — d’une perte de foi en la validité des littératures.»
 >
-> Paul Zumthor, _La Voix et la lettre_
+> Paul Zumthor, _La Lettre et la voix. De la littérature médiévale_
 
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+===
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
