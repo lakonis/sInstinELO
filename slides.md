@@ -26,7 +26,7 @@ _Des humanités numériques littéraires ?_
 
 ## Sommaire
 
-* Introduction - des humanités numériques littéraires ?
+* Introduction - Questions de recherche
 * L'éditorialisation
 * Les _Instin Studies_ : projet d'étude d'un corpus fantôme
   * _Général Instin_ : corpus (d'un) fantôme
@@ -40,41 +40,10 @@ On peut écrire des notes ici.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-<!-- .slide: data-background-image="img/kijijiVWCapturedEcran20130713_10.31.08.png" data-background-size="contain"--->
-
-
-## Des humanités numériques littéraires ?
-
-===
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-<!-- .slide: data-background-image="img/kijijiVWCapturedEcran20130713_10.31.08.png" data-background-size="contain"-->
-
-===
-source image: Capture d'écran de la plateforme Kijiji le 13 juillet 2013 à 10h31 et 8 secondes
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-<!-- .slide: data-background-image="img/kijijiVWCapturedEcran20130713_10.31.08.png" data-background-size="contain"--->
-<!-- .slide: class="hover"-->
-
-### Des humanités numériques littéraires ?
-
-* Une littérature hors le livre
-* Un patrimoine littéraire fragile (avant-garde)
-* Une nouvelle méthodologie pour les études littéraires
-* Un nouveau rôle pour le chercheur
-
-===
-source image: Capture d'écran de la plateforme Kijiji le 13 juillet 2013 à 10h31 et 8 secondes
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/0-ordonnancement_rubrique_105vagues.jpg" data-background-size="contain"--->
 <!-- .slide: class="hover"-->
 
-### Problématiques
+### Questions de recherche
 
 * Qu'est-ce que la littérature à l'époque du numérique ?
 * Quel impact sur les études littéraires ?
@@ -83,6 +52,13 @@ source image: Capture d'écran de la plateforme Kijiji le 13 juillet 2013 à 10h
 
 
 ===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Contribuer
+* Twitter : #instinstudies
+* Pad :
+* Hypothesis :
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -538,14 +514,14 @@ On le voit, les Instin Studies se positionnent comme en miroir d'Instin, et ce �
 
 Y a t il vraiment un espace Instin ? y a t il un dispositif GI ?
 
-Enfin, c'est l'effacement des auteurs, derrière la figure du général, tout à la fois sujet, narrateur, auteur, dans le glissement auctoriale que Servanne a mentionné.
-
 Or, similaire au sentiment d'insaisissabilité face à cette photo originelle du vitrail : celle d'une figure aux contours flous, spectrale, dont même la direction du regard s'est perdue, le projet Instin lui aussi se révèle indéfinissable, multi-forme ou à géométrie variable.
 
 Toutes ces raisons laissent penser que le dispositif est absent.
 
+Cette intuition est aussi renforcée par l'élongation dans le temps du projet, le fait que les textes et les formes semblent s'accumuler sans poursuivre un objectif précis, si ce n'est celui de produire, aussi celui de faire collectif, celui d'une rhétorique peut-être. (rhétorique dispositive).
+
 C'est cette absence supposée de dispositif qui permet justement de poser en creux la question du dispositif, et de se demander ce qu'il devient dans un tel projet, comment il opère, et s'il n'est plus là, qu'est ce qui le remplace.
-Autrement dit, de même qu'Instin constitue intuitivement un cas d'étude idéal de littérature contemporaine, il pourrait nous éclairer sur la nature d'un environnement-dispositif, c'est à dire sur une forme de dispositif ouvert à toute forme d'appropriation de lui-même.
+Autrement dit, de même qu'Instin constitue intuitivement un cas d'étude idéal de littérature contemporaine, il pourrait nous éclairer sur la nature d'un environnement-dispositif.
 
 
 
@@ -578,15 +554,17 @@ source image: _La place du mort_ sur remue.net
 <!-- .element: class="source" -->
 
 ===
-Première réponse: le critère d'appropriabilité. Instin est polymorphe - sa fonction et son statut littéraires en constantante évolution, au gré de nombreuses appropriations.
+Première réponse: le critère d'appropriabilité, qui repose en fait sur un dispositif littéraire bien connu: l'écriture à contrainte.
 
-Au squat de la Grange-aux-Belles, Patrick Chatelier transforme d'abord le portrait en contrainte d’écriture : « J’ai montré les photos, j’ai un peu personnifié le général et je me suis aperçu que les artistes présents s’en emparaient pour en faire leur propre chose. C’est là que c’est devenu collectif. ».
+À propos de la genèse d'Instin au squat de la Grange-aux-Belles, Patrick Chatelier témoigne : « J’ai montré les photos, j’ai un peu personnifié le général et je me suis aperçu que les artistes présents s’en emparaient pour en faire leur propre chose. C’est là que c’est devenu collectif. ».
 
 C'est à ce moment aussi que Hinstin perd son « H qui le faisait humain historique » pour opérer ce passage vers la fiction et devenir personnage-entité. Tout le monde peut alors s’approprier cet « ancêtre universel » pour lui inventer une histoire et lui donner une seconde vie.
 
-Puis, récemment Instin est enfin devenu une figure auctoriale : son nom trône en couverture de 3 ouvrages (une anthologie, un récit de fiction, une traduction d'edgar Lee Masters). Sur les réseaux sociaux, il compte ses propres profils et parle en son nom. Au cours de ce processus d'éditorialisation, Instin s'est donc aussi autorisé.
+Comme toute contrainte, Instin finira par se dérober à lui-même, en devenant totalement polymorphe - sa fonction et son statut littéraires en constantante évolution, au gré de nombreuses appropriations.
 
-S'il est difficile de parler de "bouleversement" ou de mutation totale de la littérature à l'ère numérique, Instin incarne cependant des tendances ou des traits saillants des nouvelles pratiques d'écriture :
+Pour preuve, assez récemment, Instin est devenu une figure auctoriale : son nom trône en couverture de 3 ouvrages (une anthologie, un récit de fiction, une traduction d'edgar Lee Masters). Sur les réseaux sociaux, il compte ses propres profils et parle en son nom. Au cours de ce processus d'éditorialisation, Instin s'est donc aussi autorisé.
+
+Instin incarne ainsi des tendances ou des traits saillants des nouvelles pratiques d'écriture à l'ère numérique :
 - une forte tendance à l'appropriation, et son corollaire :
 - une ouverture du concept d'autorité
 - un déplacement - ou en tout cas, une revalorisation d'une écriture qui se déploie hors du livre.
@@ -631,7 +609,7 @@ De l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement d
 ===
 Lionel Ruffel a proposé le terme de "littérature brouhaha" pour qualifier ce passage d'un imaginaire du littéraire centré sur le livre comme objet-support, à un imaginaire du littéraire centré sur une action et une pratique : la publication.
 [CITER]
-L'éditorialisation a partie liée avec la littérature brouhaha de Ruffel : elle en serait le moyen principal.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/sp38.png" -->
@@ -652,14 +630,8 @@ source image: _STREET-ART CAMPAGNE INSTIN_ sur sp38.com
 <!-- .element: class="source" -->
 
 ===
-Ce que l'on qualifiera désormais de "gestes de publication" traduit une nouvelle conception de l'écriture comme "milieu", pour reprendre l'expression de Sébastien Rongier qui a consacré des travaux ++ au Général Instin.
-
-L'éditorialisation agit ainsi sur nos concepts littéraires hérités d'une culture éditoriale aujourd'hui mise à mal par le fait numérique.
-
-- l'auteur : qui fait place à un collectif, puis une figure auctoriale ouverte
-
-- l'oeuvre : qui semble n'avoir ni début ni fin et qui va se cristalliser sous une forme anthologique.
-
+Ce que l'on qualifiera donc désormais de "gestes de publication" traduit une nouvelle conception de l'écriture comme "milieu", pour reprendre l'expression de Sébastien Rongier qui a consacré des travaux ++ au Général Instin.
+CITER
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -692,7 +664,6 @@ CITER
 
 On voit bien là une résistance active à toute forme d'autorité.
 
-Cette intuition est aussi renforcée par l'élongation dans le temps du projet, le fait que les textes et les formes semblent s'accumuler sans poursuivre un objectif précis, si ce n'est celui de produire, aussi celui de faire collectif, celui d'une rhétorique peut-être. (rhétorique dispositive).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="./img/Composition3Graphes_large.png" data-background-size="cover" -->
@@ -796,30 +767,34 @@ Or, c'est ce changement radical de l'espace et de l'autorité, et cette prédisp
 ### Alors... qu'est-ce que, et pourquoi Instin ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/StLouisNavire.JPEG" -->
-
-### Origine(s)
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-<iframe data-src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=18rhwdJjrIvOahi_L70BqDT9x8_EKqmxgsPQk7AFtnog&font=Default&start_at_slide=19&lang=fr&initial_zoom=21&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/adamique.png" -->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/arton2702.jpg" data-background-size="contain"-->
 
 ### La question H
 
 ===
-La question du H - dont la disparition ne fait finalement que rendre plus présente la question historique, pose question : confrontation entre l'objet littéraire et l'objet historique ?
+Souvent convoqué par le projet d'écriture à contrainte, le H instinien - dont la disparition ou l'amputation ne fait finalement que rendre plus présente la problématique historique - nous ramène à notre question ontologique : comment se négocie la relation entre l'objet littéraire et l'objet historique ?
 
-Plutôt, idée que l'histoire est de toutes les façons en construction, pas en opposition avec la fiction.
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/StLouisNavire.JPEG" -->
 
-On pourrait se demander si, finalement, notre chronologie linéaire ne devrait pas se transformer en cercle où le réel viendrait mordre la queue du récit : la photographie du vitrail serait un point de basculement entre la chronologie de "vrai" général et celle du GI - qui finalement se sont mutuellement façonnés.
+### Origine(s)
+
+===
+Une façon de chercher à répondre à cette question consiste à établir les origines d'Instin.
+Pour y parvenir, nous avons créé une Timeline Instin (encore inachevée).
+Exercice en apparence assez simple, qui s'est vite transformé en casse-tête, nous obligeant d'ailleurs à redéfinir les frontières de notre corpus.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<iframe data-src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=18rhwdJjrIvOahi_L70BqDT9x8_EKqmxgsPQk7AFtnog&font=Default&start_at_slide=19&lang=fr&initial_zoom=21&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+===
+
+Du coup, on pourrait se demander si, finalement, notre chronologie linéaire ne devrait pas se transformer en cercle où le réel viendrait mordre la queue du récit : la photographie du vitrail serait un point de basculement entre la chronologie de "vrai" général et celle du GI - qui finalement se sont mutuellement façonnés.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/adamique.png" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/G.I.-15h26--.jpg" data-background-size="contain"-->
@@ -828,7 +803,6 @@ On pourrait se demander si, finalement, notre chronologie linéaire ne devrait p
 ### (H)Instin éditorialisé : par-delà la frontière imaginaire/réel
 
 * espace numérique et brouillage des frontières
-* fusion entre texte, paratexte et épitexte
 * superposition de discours littéraire et non littéraire
 
 
@@ -852,22 +826,7 @@ Sommes-nous en train d’institutionnaliser Instin ou, au contraire, sommes-nous
 
 Une chose est sûre : nous nourrissons la bête…
 
-Cette réflexion que nous menons aujourd'hui sur les Humanités numériques littéraires, s'inscrit probablement dans une réflexion épisémologique sur les études littéraires qui a en vérité traversé la seconde moitié du XXe siècle.
-
-Dans les années 1980, le médiéviste et comparatiste Paul Zumthor disait ainsi :
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/generalinstinVitrail.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-> «&nbsp;Depuis quelques années [le terme "littérature"] tend à se dissiper comme objet de connaissance, voire simplement de perception. Simultanément, le statut de l’«&nbsp;histoire de la littérature&nbsp;» est remis en question. De telles incertitudes ne sont pas propres à notre époque ; elles s’associent aux regrets qu’inspire périodiquement depuis trois siècles une prétendue décadence de la culture livresque : constante paradoxale, où l’on pourrait discerner les accès récurrents d’une nostalgie de la voix vive. Mais la logique discursive qui constitua notre « littérature » fonctionne aujourd’hui de pis en pis ; une menace d’aliénation connote plus ou moins tous les sens produits par elle. Preuve en soit la fortune dont jouit pendant une vingtaine d’années la «&nbsp;théorie littéraire&nbsp;» : compensation — peut-être honteuse — d’une perte de foi en la validité des littératures.»
->
-> Paul Zumthor, _La Lettre et la voix. De la littérature médiévale_
-
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
-
-===
-
+On s'en sort pas.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
