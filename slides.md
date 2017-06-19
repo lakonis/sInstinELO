@@ -638,7 +638,7 @@ CITER
 <!-- .slide: data-background-image="img/campagneNonOfficielle.png" -->
 <!-- .slide: class="hover"-->
 
-### Du libre-accès au libre-service : les "GI Commons"
+### Général Anarchie ?
 
 > Il n’y a pas de chef, pas d’organisation, c’est un fonctionnement particulier. Il n’y a jamais eu non plus de comité de rédaction. Ni de réunion. Une tentative de séminaire a capoté. Il y a des opportunités et des gens qui vont s’investir, longtemps ou pas, dans cette entité.
 >
@@ -669,6 +669,7 @@ On voit bien là une résistance active à toute forme d'autorité.
 <!-- .slide: data-background-image="./img/Composition3Graphes_large.png" data-background-size="cover" -->
 <!--  .slide: class="hover"-->
 
+### Finitude
 * un ensemble ouvert et dynamique, mais fini
 * centralité de certains acteurs et plateformes
 
@@ -740,6 +741,9 @@ _Base acide_, Anne Kawala (2013)
 
 ### «dispositive» _(adj.)_
 
+* _action dispositive_ (Merzeau, 2013)
+* _écritures dispositives_ : objet et milieu
+
 ===
 
 Ce que suggère ces premières fouilles, ces premières visualisations d'un corpus encore incomplet, c'est que les _manifestations_ d'instin produisent ensemble un archipel dont les contours sont finalement relativement identifiables. Il existe bien une forme, ou des formes, un espace produit,  éditorialisé qui fait dispositif.
@@ -756,9 +760,44 @@ De fait, il n’y a pas de dispositif formel Général Instin, mais Instin produ
 
 Ce glissement n'est pas anodin, il permet de nous rapprocher de la nature-même du dispositif Instin, en tant que média, ou en tant que milieu, et par ailleurs d'invoquer la théorie de l'éditorialisation pour comprendre comment cette nature environnementale du numérique travaille les dispositifs littéraires, tant du côté de l'écriture que de la lecture. [Ce qui permet notamment de penser les pratiques d'écritures et de lectures non pas de façon hors-sol, mais liées par essence aux dispositifs ou plus exactement à leur milieu.]
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/campagneNonOfficielle.png" -->
+<!-- .slide: class="hover"-->
+
+
+### «GI Commons»
+
+* l'écriture dispositive : de l'appropriation
+* littérature éditorialisée : espace public
+* commun
+* l'écriture comme :
+  * objet du commun
+  * milieu
+
+===
+
 A quoi ce milieu prédispose ? à quoi l'écriture dispositive qu'est Instin prédispose ? : à la réécriture, à l'appropriation.
 
-Or, c'est ce changement radical de l'espace et de l'autorité, et cette prédisposition à l'appropriation qui produisent les conditions de possibilité d'un commun.
+On l'a vu, cette appropriabilité est caractéristique de cet espace de publication généré par Instin. C'est peut-être le dernier ingrédient pour un commun
+Instin, en tant que communauté, en tant qu'environnement dispositif et en tant qu'écriture
+
+
+Instin est donc une forme d'éditorialisation dont l'espace de publication est un espace public,
+
+ comme
+
+Ainsi, dans cet espace public produit par cette forme particulière d'éditorialisation,
+
+Ainsi, si l'on réconcilie cette écriture dispositive ou écriture-milieu, et ce que la théorie de l'éditorialisation nous dit de la production de l'espace, c'est que l'écriture devient à la fois l'espace et l'objet du commun.
+
+l'éditorialisation qui est une production d'espace, cette écriture comme milieu,
+
+
+aussi l'idée que l'écriture est à la fois espace et objet littéraire.
+
+réintroduire cette forme d'éditorialisation produit un espace, mais ici un espace public : changement radical de l'espace et de l'autorité : qui prédispose à l'appropriation, c'est a dire aussi qui crée les conditions de possibilité d'un commun.
+
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
