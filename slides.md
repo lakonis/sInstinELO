@@ -16,29 +16,12 @@ _Des humanités numériques littéraires ?_
 ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png) <!-- .element: class="logo" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/equipeCRC.png" data-background-size="contain"-->
-
 ## Chaire de recherche du Canada sur les écritures numériques
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/cropped-instin_climax_00.jpg" -->
-<!-- .slide: class="hover"-->
+![](http://vitalirosati.net/slides/img/equipe1.png) <!-- .element: width="45%" -->
+![](http://vitalirosati.net/slides/img/equipe2.png) <!-- .element: width="45%" -->
 
-## Sommaire
-
-* Introduction - Questions de recherche
-* L'éditorialisation
-* Les _Instin Studies_ : projet d'étude d'un corpus fantôme
-  * _Général Instin_ : corpus (d'un) fantôme
-  * _Instin Studies_: l'éditorialisation comme méthodologie
-  * _GI_ : l'éditorialisation littéraire
-* Conclusion
-
-===
-
-On peut écrire des notes ici.
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/0-ordonnancement_rubrique_105vagues.jpg" data-background-size="contain"--->
 <!-- .slide: class="hover"-->
@@ -54,11 +37,34 @@ On peut écrire des notes ici.
 ===
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/PostIt.jpg" -->
+<!-- .slide: class="hover"-->
 
 ### Contribuer
 * Twitter : #instinstudies
-* Pad :
-* Hypothesis :
+* Pad : https://frama.link/Cerisy2017
+* Carnet : https://frama.link/instinstudies
+
+===
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/cropped-instin_climax_00.jpg" -->
+<!-- .slide: class="hover"-->
+
+## Sommaire
+
+* Introduction - Questions de recherche
+* L'éditorialisation
+* Les _Instin Studies_ : projet d'étude d'un corpus fantôme
+* l'éditorialisation comme méthodologie littéraire
+* _GI_ : cas d'école d'une littérature éditorialisée
+* Conclusion
+
+===
+
+On peut écrire des notes ici.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -69,53 +75,45 @@ On peut écrire des notes ici.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/PostIt.jpg" -->
+<!-- .slide: data-background-image="img/Framapad.png" -->
 <!-- .slide: class="hover"-->
 
-### Cartographie du concept (1)
+### Cartographie du concept
 * Un néologisme récent
 * Un concept interdisciplinaire
 * Articulation théorie/pratique
 
 ===
-Le terme éditorialisation est un néologisme récent, forgé à partir de 2004, pour désigner de nouvelles pratiques éditoriales issues des technologies numériques. Le concept reste encore instable et débattu : clairement il fait l’objet d’un intérêt très fort, mais sa définition est encore mal arrêtée.
+Le terme éditorialisation est un néologisme récent, forgé à partir de 2004, pour désigner de nouvelles pratiques éditoriales issues des technologies numériques. Le concept reste encore instable et débattu : clairement il fait l’objet d’un intérêt très fort, mais sa définition est encore en construction.
 
-Malgré ses frontières encore un peu floues (ce qui en fait d'ailleurs l'intérêt), le concept d'éditorialisation fédère un nombre croissant de chercheurs et d’institutions, dans une perspective interdisciplinaire. À vrai dire, les littéraires sont encore un peu à la traîne sur le terrain de l'éditorialisation, qui fait surtout l'objet d'études aprofondies en info com, philo, socio, design, bibliothéconomie - en fait la force, car le concept est du coup très fédérateur.
+Malgré ses frontières encore mouvantes (ce qui en fait d'ailleurs l'intérêt), le concept d'éditorialisation fédère un nombre croissant de chercheurs et d’institutions, dans une perspective interdisciplinaire. À vrai dire, les littéraires sont encore un peu à la traîne sur le terrain de l'éditorialisation, qui fait surtout l'objet d'études approfondies en info com (avec Louise Merzeau), philo (Gérard Wormser), design, bibliothéconomie...
 
-Enfin, l’éditorialisation témoigne d'une forte volonté de faire dialoguer les théoriciens et les praticiens : ceux qui construisent des outils, des plateformes d’édition et de gestion des contenus, ceux qui réfléchissent aux conséquences culturelles, ontologiques de ces nouveaux outils. <!-- l'impression ici qu'il existe 2 communautés... c'est un peu vrai mais dommage. L'éditorialisation me semble surtout convenir à ceux qui associent les deux. Ou encore, elle encourage les praticiens à théoriser leur pratique, et les théoriciens à devenir "réalistes"-->
+Enfin, l’éditorialisation témoigne d'une forte volonté de faire dialoguer les théoriciens et les praticiens : ceux qui construisent des outils, des plateformes d’édition et de gestion des contenus, ceux qui réfléchissent aux conséquences culturelles, ontologiques de ces nouveaux outils. La notion implique en effet un dialogue constant entre théorie et pratique.  
 
-Depuis 2008, le séminaire "Écritures numériques et éditorialisation" se conçoit comme un espace de débat et de réflxion - nous vous invitons à consulter les archives vidéo disponibles en ligne, pour vous faire une idée plus précise de ce chantier théorique et pratique.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Framapad.png" -->
-<!-- .slide: class="hover"-->
-
-### Cartographie du concept (2)
-* De la remédiation des documents...
-* ...aux pratiques éditoriales natives numériques
-
-===
-Initialement, l'éditorialisation a été forgée pour penser la remédiation numérique. En 2007, dans son article « Nouvelles tendances applicatives : de l’indexation à l’éditorialisation », Bruno Bachimont utilise le terme pour parler du passage d'un document non-numérique à un document numérique. Il s'agit alors de penser le transfert d’informations restructurées pour être adaptées à l'environnement numérique.
-Sous l’influence de chercheurs plus portés vers la philosophie - GW, MVR, Louise Merzeau - l’édito a évolué en pensée du numérique, à mesure que le concept s’adaptait à des contenus non plus remédiés mais natifs numériques.
+Entre théorie et pratique, les praticiens sont ainsi amenés à développer une approche critique de leurs outils et environnement, et de leur côté, les théoriciens doivent nécessairement ancrer leurs concepts sur des cas concrets et une connaissance technique de l’environnement numérique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="./img/mashupInstin.png" -->
+<!-- .slide: data-background-image="./img/ngramEditorialisation.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 ### La notion d'éditorialisation
 
 * **2004-2007: apparition du mot**
   * Une sorte d'édition dans l'environnement numérique
-  * Bachimont : passage d'un document non-numérique à un document numérique
+  * Bachimont : le document numérique comme remédiation d'une ressource numérisée
 
 * **2008: le terme s'institutionnalise**
-  * Sens public: formes de production et de circulation de la connaissance en environnement numérique
-  * Laboratoire MSH: Pratiques interdisciplinaires et circulation du savoir : vers une éditorialisation des SHS (Wormser, Vitali-Rosati)
+  * Séminaire «Écritures numériques et éditorialisation» (Sens Public, IRI, Dicen-IDF, UdeM)
+
 
 ===
+Pour Bachimont, l'éditorialisation est le processus par lequel une ressource est remédiée en un nouveau document numérique, impliquant la ré-interprétation de la ressource.
+
 À partir de 2008, le terme commence ainsi à s'institutionnaliser.
 
-L'éditorialisation permer alors de penser un processus ouvert où auteurs, collectivités, plateformes, dynamiques pratiques sont mêlées et difficiles à retracer. pas curation, pas édition... éditorialisation
+Notamment avec le séminaire "Écritures numériques et éditorialisation", où l'éditorialisation se conçoit comme un espace de débat et de réfléxion - nous vous invitons à consulter les archives vidéo disponibles en ligne, pour vous faire une idée plus précise de ce chantier théorique et pratique.
+
+L'éditorialisation permet alors de penser un processus ouvert où auteurs, collectivités, plateformes, dynamiques pratiques sont mêlées et difficiles à retracer. pas curation, pas édition... éditorialisation
 pourtant ça produit une émergence de sens
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -126,11 +124,9 @@ pourtant ça produit une émergence de sens
 Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
 
 ===
-Au regard de ce balisage préliminaire, l'enjeu de l'éditorialisation et qui reste notre problématique de recherche est donc la suivante : Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
+Au regard de ce balisage préliminaire, appliquée à la littérature ou aux humanités numériques littéraires, l'enjeu de l'éditorialisation est le suivant : Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
 
-<!-- poser ici la question de la spécificité du texte littéraire ?-->
-
-Mine de rien, la question que l'on se pose est assez ambitieuse: au fond, il ne s'agit rien de moins que d'interroger le statut ontologique de la littérature, à l'heure où le numérique ne se pense plus qu'en termes d'outils mais bien de culture. <!-- ok là c'est simpliste mais j'essaire de transitionner-->
+Mine de rien, la qusetion que l'on se pose est assez ambitieuse: au fond, il ne s'agit rien de moins que d'interroger le statut ontologique de la littérature, à l'heure où le numérique ne se pense plus seulement en termes d'outils mais bien en termes de culture. <!-- ok là c'est simpliste mais j'essaire de transitionner-->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/rhizome.jpg" -->
@@ -147,7 +143,10 @@ Mine de rien, la question que l'on se pose est assez ambitieuse: au fond, il ne 
 ===
 <!-- du coup ici on repart sur le savoir : faudrait juste bien soigner notre transition -->
 
+[CITER]
+
 Cette distinction entre édition et éditorialisation opérée par MVR, l'amène (et nous amène) à proposer une définition du concept dont les conséquences ontologiques sont très fortes. L'éditorialisation comprend en effet une dimension performative décisive, qui se traduit notamment par une pensée spatiale du fait numérique.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
@@ -163,10 +162,11 @@ Cette distinction entre édition et éditorialisation opérée par MVR, l'amène
 <!-- .element: style="font-size:1.8rem; text-align:justify" -->
 
 ===
+[CITER]
+
 L'éditorialisation, ainsi, produit l'espace, et donc produit le réel.
 C'est là que le concept peut apporter beaucoup à la réflexion littéraire, en réinvestissant notamment une problématique qui lui est inhérente: celle de la mimésis, de la distinction entre imaginaire-réel, celle de son statut ontologique, de sa fonction et de son pouvoir effectif.
 
-Attention : cet article ne prétend nullement que le numérique réforme le statut ontologique de la littérature. Plus exactement, il réinvestit des problématiques littéraires très anciennes (déjà formulées chez Platon et Aristote) et met en lumière ce brouillage qui a toujours existé entre imaginaire et réel.
 
 <!-- préciser peut-être un peu ce point-->
 
@@ -178,7 +178,7 @@ Attention : cet article ne prétend nullement que le numérique réforme le stat
 
 >«Le fait de penser le geste de production des contenus numériques comme un geste de production de l’espace nous permet justement d’aller au-delà de l’opposition imaginaire/réel. Les pratiques, les discours et les technologies impliquées dans un geste d’éditorialisation ont comme résultat l’agencement d’un espace tout à fait réel, à savoir l’espace dans lequel nous vivons.»
 >
-> Monjour, Vitali-Rosati, Wormser, 2016.
+> Monjour, Vitali-Rosati, Wormser, _Le fait littéraire au temps du numérique. Pour une ontologie de l'imaginaire_, 2016.
 
 <!-- .element: style="font-size:1.8rem; text-align:justify" -->
 
@@ -187,9 +187,12 @@ Attention : cet article ne prétend nullement que le numérique réforme le stat
 <!--(anciennes notes)
 Nous venons de présenter une théorie très générale de l'éditorialisation. Mais que se passe-t-il dans un contexte littéraire ?-->
 
+[CITER]
+
+Attention : cet article ne prétend nullement que le numérique réforme le statut ontologique de la littérature. Plus exactement, il réinvestit des problématiques littéraires très anciennes (déjà formulées chez Platon et Aristote) et met en lumière ce brouillage qui a toujours existé entre imaginaire et réel.
+
 Si, tel que nous en avons la conviction, la littérature contribue également à la production du réel, cette question ontologique est finalement une porte d'entrée idéale pour penser le rapport entre éditorialisation et littérature.
 
-Général Instin, notre cas d'étude, tente de confirmer ce rapport en soulignant les similitudes de leurs modes de production du réel.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/generalinstinVitrail.jpg" -->
@@ -197,9 +200,11 @@ Général Instin, notre cas d'étude, tente de confirmer ce rapport en soulignan
 ## Les Instin Studies : projet d'étude d'un corpus fantôme
 
 ===
+
 Quoi de mieux pour mesurer l'efficacité du concept d'éditorialisation dans le champ des études littéraires, que de le confronter à un corpus hétérogène, mouvant, insaisissable, dont la nature serait en quelque sorte de ne pas avoir de nature, ou du moins d'en changer tout le temps.
 
 Notre attention s'est ainsi portée sur le cas du Général Instin, qui semblait mobiliser différentes stratégies d'éditorialisation, en investissant les problématiques qui nous sont chères: espace, autorité, frontières imaginaire/réel.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instinss.jpg" -->
@@ -863,9 +868,7 @@ Nous voilà donc devenus instiniens, ce qui nous amène à rester très prudent 
 
 Sommes-nous en train d’institutionnaliser Instin ou, au contraire, sommes-nous en train de nous marginaliser nous-mêmes (ce qui serait d'ailleurs peut-être préférable)?
 
-Une chose est sûre : nous nourrissons la bête…
-
-On s'en sort pas.
+Une chose est sûre : nous nourrissons la bête qui est en train de nous dévorer.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
