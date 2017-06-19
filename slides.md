@@ -101,6 +101,14 @@ source image: Capture d'écran de la plateforme Kijiji le 13 juillet 2013 à 10h
 * Un concept interdisciplinaire
 * Articulation théorie/pratique
 
+===
+Le terme éditorialisation est un néologisme récent, forgé à partir de 2004, pour désigner de nouvelles pratiques éditoriales issues des technologies numériques. Le concept reste encore instable et débattu : clairement il fait l’objet d’un intérêt très fort, mais sa définition est encore mal arrêtée.
+
+Malgré ses frontières encore un peu floues (ce qui en fait d'ailleurs l'intérêt), le concept d'éditorialisation fédère un nombre croissant de chercheurs et d’institutions, dans une perspective interdisciplinaire. À vrai dire, les littéraires sont encore un peu à la traîne sur le terrain de l'éditorialisation, qui fait surtout l'objet d'études aprofondies en info com, philo, socio, design, bibliothéconomie - en fait la force, car le concept est du coup très fédérateur.
+
+Enfin, l’éditorialisation témoigne d'une forte volonté de faire dialoguer les théoriciens et les praticiens : ceux qui construisent des outils, des plateformes d’édition et de gestion des contenus, ceux qui réfléchissent aux conséquences culturelles, ontologiques de ces nouveaux outils. <!-- l'impression ici qu'il existe 2 communautés... c'est un peu vrai mais dommage. L'éditorialisation me semble surtout convenir à ceux qui associent les deux. Ou encore, elle encourage les praticiens à théoriser leur pratique, et les théoriciens à devenir "réalistes"-->
+
+Depuis 2008, le séminaire "Écritures numériques et éditorialisation" se conçoit comme un espace de débat et de réflxion - nous vous invitons à consulter les archives vidéo disponibles en ligne, pour vous faire une idée plus précise de ce chantier théorique et pratique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Framapad.png" -->
@@ -109,6 +117,10 @@ source image: Capture d'écran de la plateforme Kijiji le 13 juillet 2013 à 10h
 ### Cartographie du concept (2)
 * De la remédiation des documents...
 * ...aux pratiques éditoriales natives numériques
+
+===
+Initialement, l'éditorialisation a été forgée pour penser la remédiation numérique. En 2007, dans son article « Nouvelles tendances applicatives : de l’indexation à l’éditorialisation », Bruno Bachimont utilise le terme pour parler du passage d'un document non-numérique à un document numérique. Il s'agit alors de penser le transfert d’informations restructurées pour être adaptées à l'environnement numérique.
+Sous l’influence de chercheurs plus portés vers la philosophie - GW, MVR, Louise Merzeau - l’édito a évolué en pensée du numérique, à mesure que le concept s’adaptait à des contenus non plus remédiés mais natifs numériques.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="./img/mashupInstin.png" -->
@@ -125,12 +137,10 @@ source image: Capture d'écran de la plateforme Kijiji le 13 juillet 2013 à 10h
   * Laboratoire MSH: Pratiques interdisciplinaires et circulation du savoir : vers une éditorialisation des SHS (Wormser, Vitali-Rosati)
 
 ===
-(marcello est lancé)
-éditorialisation: penser un processus ouvert où auteurs, collectivités, plateformes, dynamiques pratiques sont mêlées et difficiles à retracer. pas curation, pas édition... éditorialisation
+À partir de 2008, le terme commence ainsi à s'institutionnaliser.
+
+L'éditorialisation permer alors de penser un processus ouvert où auteurs, collectivités, plateformes, dynamiques pratiques sont mêlées et difficiles à retracer. pas curation, pas édition... éditorialisation
 pourtant ça produit une émergence de sens
-
-
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
@@ -140,8 +150,11 @@ pourtant ça produit une émergence de sens
 Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
 
 ===
+Au regard de ce balisage préliminaire, notre problématique de recherche est donc la suivante : Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
 
+<!-- poser ici la question de la spécificité du texte littéraire ?-->
 
+Mine de rien, la question que l'on se pose est assez ambitieuse: au fond, il ne s'agit rien de moins que d'interroger le statut ontologique de la littérature, à l'heure où le numérique ne se pense plus qu'en termes d'outils mais bien de culture. <!-- ok là c'est simpliste mais j'essaire de transitionner-->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/rhizome.jpg" -->
@@ -154,6 +167,11 @@ Comment garantir la production, la circulation et la légitimation de la littér
 > Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
 
 <!-- .element: style="font-size:1.8rem; text-align:justify" -->
+
+===
+<!-- du coup ici on repart sur le savoir : faudrait juste bien soigner notre transition -->
+
+Cette distinction entre édition et éditorialisation opérée par MVR, l'amène (et nous amène) à proposer une définition du concept dont les conséquences ontologiques sont très fortes. L'éditorialisation comprend en effet une dimension performative décisive, qui se traduit notamment par une pensée spatiale du fait numérique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
@@ -169,6 +187,13 @@ Comment garantir la production, la circulation et la légitimation de la littér
 <!-- .element: style="font-size:1.8rem; text-align:justify" -->
 
 ===
+L'éditorialisation, ainsi, produit l'espace, et donc produit le réel.
+C'est là que le concept peut apporter beaucoup à la réflexion littéraire, en réinvestissant notamment une problématique qui lui est inhérente: celle de la mimésis, de la distinction entre imaginaire-réel, celle de son statut ontologique, de sa fonction et de son pouvoir effectif.
+
+Attention : cet article ne prétend nullement que le numérique réforme le statut ontologique de la littérature. Plus exactement, il réinvestit des problématiques littéraires très anciennes (déjà formulées chez Platon et Aristote) et met en lumière ce brouillage qui a toujours existé entre imaginaire et réel.
+
+<!-- préciser peut-être un peu ce point-->
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="./img/mashupInstin.png" -->
 <!-- .slide: class="hover"-->
@@ -177,20 +202,18 @@ Comment garantir la production, la circulation et la légitimation de la littér
 
 >«Le fait de penser le geste de production des contenus numériques comme un geste de production de l’espace nous permet justement d’aller au-delà de l’opposition imaginaire/réel. Les pratiques, les discours et les technologies impliquées dans un geste d’éditorialisation ont comme résultat l’agencement d’un espace tout à fait réel, à savoir l’espace dans lequel nous vivons.»
 >
-> Monjour,
+> Monjour, Vitali-Rosati, Wormser, 2016.
 
 <!-- .element: style="font-size:1.8rem; text-align:justify" -->
 
 
 ===
-(anciennes notes)
-Nous venons de présenter une théorie très générale de l'éditorialisation. Mais que se passe-t-il dans un contexte littéraire ?
+<!--(anciennes notes)
+Nous venons de présenter une théorie très générale de l'éditorialisation. Mais que se passe-t-il dans un contexte littéraire ?-->
 
-éditorialisation produit l'espace, produit le réel : de meme que la littérature participe également de la production du réel (lien imaginaire-réel) :
-notre cas d'étude tente de confirmer le lien entre éditorialisation et littérature et les similitudes de modes de productions du réel.
+Si, tel que nous en avons la conviction, la littérature contribue également à la production du réel, cette question ontologique est finalement une porte d'entrée idéale pour penser le rapport entre éditorialisation et littérature.
 
-
-article SP "fait littéraire" : le numérique met en lumière le brouillage qui a toujours existé entre imaginaire et réel.
+Général Instin, notre cas d'étude, tente de confirmer ce rapport en soulignant les similitudes de leurs modes de production du réel.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/generalinstinVitrail.jpg" -->
@@ -200,7 +223,7 @@ article SP "fait littéraire" : le numérique met en lumière le brouillage qui 
 ===
 Quoi de mieux pour mesurer l'efficacité du concept d'éditorialisation dans le champ des études littéraires, que de le confronter à un corpus hétérogène, mouvant, insaisissable, dont la nature serait en quelque sorte de ne pas avoir de nature, ou du moins d'en changer tout le temps.
 
-Notre attention s'est ainsi portée sur le cas Instin, qui semblait mobiliser différentes stratégies d'éditorialisation, en investissant les problématiques qui nous sont chères: espace, autorité, frontières imaginaire/réel.
+Notre attention s'est ainsi portée sur le cas du Général Instin, qui semblait mobiliser différentes stratégies d'éditorialisation, en investissant les problématiques qui nous sont chères: espace, autorité, frontières imaginaire/réel.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instinss.jpg" -->
@@ -473,10 +496,6 @@ L'éditorialisation de l'archive nous inscrit dans une double dynamique :
   * Ce pari est celui d’un dialogue entre le dispositif de publication littéraire du GI et le dispositif d’une archive scientifique. Un dialogue tout en tension, tout en contradiction peut-être, mais dont la démarche fait sens pour considérer l’archive non pas comme une tentative de totalisation de GI, mais plutôt de projection en miroir, elle-même excroissance du projet.
 
 Instin travaille notre archive, comme l'archive travaille Instin, et ces deux performativités produisent et sont la production de deux espaces distincts.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/vitrailOriginal.jpg" data-background-size="contain" -->
-### Réflexion épistémologique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/1-12.jpg" data-background-size="contain" -->
