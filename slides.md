@@ -64,7 +64,7 @@ Cerisy - 15-22 juin 2017
 
 ===
 
-On peut écrire des notes ici.
+Programme des festivités
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -84,13 +84,13 @@ On peut écrire des notes ici.
 * Articulation théorie/pratique
 
 ===
-Le terme éditorialisation est un néologisme récent, forgé à partir de 2004, pour désigner de nouvelles pratiques éditoriales issues des technologies numériques. Le concept reste encore instable et débattu : clairement il fait l’objet d’un intérêt très fort, mais sa définition est encore en construction.
+Le terme éditorialisation est un néologisme récent, forgé à partir de 2004, pour désigner de nouvelles pratiques éditoriales issues des technologies numériques. Le concept reste encore instable et débattu : s'il fait l’objet d’un intérêt très fort, sa définition est toujours en construction.
 
-Malgré ses frontières encore mouvantes (ce qui en fait d'ailleurs l'intérêt), le concept d'éditorialisation fédère un nombre croissant de chercheurs et d’institutions, dans une perspective interdisciplinaire. À vrai dire, les littéraires sont encore un peu à la traîne sur le terrain de l'éditorialisation, qui fait surtout l'objet d'études approfondies en info com (avec Louise Merzeau), philo (Gérard Wormser), design, bibliothéconomie...
+Malgré ses frontières encore mouvantes (ce qui en fait d'ailleurs l'intérêt), le concept d'éditorialisation fédère un nombre croissant de chercheurs et d’institutions, dans une perspective interdisciplinaire. À vrai dire, les littéraires sont encore un peu à la traîne sur le terrain de l'éditorialisation, qui fait surtout l'objet d'études approfondies en info com (avec Louise Merzeau), en philo (Gérard Wormser), en design ou en bibliothéconomie...
 
-Enfin, l’éditorialisation témoigne d'une forte volonté de faire dialoguer les théoriciens et les praticiens : ceux qui construisent des outils, des plateformes d’édition et de gestion des contenus, ceux qui réfléchissent aux conséquences culturelles, ontologiques de ces nouveaux outils. La notion implique en effet un dialogue constant entre théorie et pratique.  
+Enfin, l’éditorialisation témoigne d'une forte volonté de faire dialoguer les praticiens et les théoriciens : ceux qui construisent des outils, des plateformes d’édition et de gestion des contenus et ceux qui réfléchissent aux conséquences culturelles, ontologiques de ces nouveaux outils. La notion implique en effet un dialogue constant entre théorie et pratique.  
 
-Entre théorie et pratique, les praticiens sont ainsi amenés à développer une approche critique de leurs outils et environnement, et de leur côté, les théoriciens doivent nécessairement ancrer leurs concepts sur des cas concrets et une connaissance technique de l’environnement numérique.
+Les praticiens sont ainsi amenés à développer une approche critique de leurs outils et environnement, tandis que de leur côté, les théoriciens doivent nécessairement ancrer leurs concepts sur des cas concrets et sur une connaissance technique de l’environnement numérique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="./img/ngramEditorialisation.png" data-background-size="contain"-->
@@ -104,17 +104,17 @@ Entre théorie et pratique, les praticiens sont ainsi amenés à développer une
 
 * **2008: le terme s'institutionnalise**
   * Séminaire «Écritures numériques et éditorialisation» (Sens Public, IRI, Dicen-IDF, UdeM)
+  * "Qu'est-ce que l'éditorialisation ?", _Sens public_, 2016.
 
 
 ===
-Pour Bachimont, l'éditorialisation est le processus par lequel une ressource est remédiée en un nouveau document numérique, impliquant la ré-interprétation de la ressource.
+Très rapidement, on peut tenter de dresser une généalogie du concept, probablement trop schématique, mais qui nous aide à baliser notre terrain.
 
-À partir de 2008, le terme commence ainsi à s'institutionnaliser.
+On mentionnera ainsi les travaux de Bachimont, pour qui l'éditorialisation désigne ce processus par lequel une ressource est remédiée en un nouveau document numérique, impliquant la ré-interprétation de cette même ressource.
 
-Notamment avec le séminaire "Écritures numériques et éditorialisation", où l'éditorialisation se conçoit comme un espace de débat et de réfléxion - nous vous invitons à consulter les archives vidéo disponibles en ligne, pour vous faire une idée plus précise de ce chantier théorique et pratique.
+À partir de 2008, le terme commence à s'institutionnaliser, notamment grâce aux travaux menés dans le cadre du séminaire "Écritures numériques et éditorialisation", où l'éditorialisation se conçoit comme un espace de débat et de réfléxion - nous vous invitons à consulter les archives vidéo disponibles en ligne, pour vous faire une idée plus précise de ce chantier théorique et pratique.
 
-L'éditorialisation permet alors de penser un processus ouvert où auteurs, collectivités, plateformes, dynamiques pratiques sont mêlées et difficiles à retracer. pas curation, pas édition... éditorialisation
-pourtant ça produit une émergence de sens
+L'éditorialisation permet alors de penser un processus ouvert dans le temps et dans l'espace, convoquant des auteurs, des collectivités, plateformes et dynamiques pratiques.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
@@ -124,7 +124,7 @@ pourtant ça produit une émergence de sens
 décrire et comprendre les processus de production, de circulation et de légitimation de la littérature à l'ère numérique ?
 
 ===
-Au regard de ce balisage préliminaire, appliquée à la littérature ou aux humanités numériques littéraires, l'enjeu de l'éditorialisation est le suivant : décrire et comprendre les processus de production, la circulation et la légitimation de la littérature à l'ère numérique ?
+Au regard de ce balisage préliminaire, l'enjeu de l'éditorialisation appliquée à la littérature ou aux humanités numériques littéraires devient le suivant : décrire et comprendre les processus de production, la circulation et la légitimation de la littérature à l'ère numérique ?
 
 Mine de rien, la question que l'on se pose est assez ambitieuse: au fond, il ne s'agit rien de moins que d'interroger le statut ontologique de la littérature, à l'heure où le numérique ne se pense plus seulement en termes d'outils mais bien en termes de culture.
 
@@ -167,7 +167,7 @@ Cette distinction entre édition et éditorialisation opérée par MVR, l'amène
 ===
 [CITER]
 
-L'éditorialisation, ainsi, produit l'espace, et donc produit le réel.
+L'éditorialisation, ainsi, produit l'espace, et donc participe à la production du réel.
 C'est là que le concept peut apporter beaucoup à la réflexion littéraire, en réinvestissant notamment une problématique qui lui est inhérente: celle de la mimésis, de la distinction entre imaginaire-réel, celle de son statut ontologique, de sa fonction et de son pouvoir effectif.
 
 
@@ -192,9 +192,9 @@ Nous venons de présenter une théorie très générale de l'éditorialisation. 
 
 [CITER]
 
-Attention : cet article ne prétend nullement que le numérique réforme le statut ontologique de la littérature. Plus exactement, il réinvestit des problématiques littéraires très anciennes (déjà formulées chez Platon et Aristote) et met en lumière ce brouillage qui a toujours existé entre imaginaire et réel.
+Attention : cet article ne prétend nullement que le numérique réforme le statut ontologique de la littérature. Plus exactement, il réinvestit des problématiques littéraires très anciennes (déjà formulées chez Platon et Aristote) et met en lumière ce brouillage qui a toujours existé entre imaginaire et réel. De manière générale, d'ailleurs, et cela a été dit à plusieurs reprise tout au long de ce colloque, le fait numérique nous rattache à des traditions littéraires et intellectuelles du passé (la sociabilité des salons, etc.).
 
-Si, tel que nous en avons la conviction, la littérature contribue également à la production du réel, cette question ontologique est finalement une porte d'entrée idéale pour penser le rapport entre éditorialisation et littérature.
+Si, tel que nous en avons la conviction, la littérature contribue à la production du réel, cette question ontologique est finalement une porte d'entrée idéale pour penser le rapport entre éditorialisation et littérature.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -220,7 +220,7 @@ source image: _Quand on écrira l’histoire secrète du vingt et unième siècl
 <!-- .element: class="source" -->
 
 ===
-Hinstin, c'est d'abord le nom d'un général du XIXe siècle, mort et enterré en 1905 et dont la tombe, au cimetière du Montparnasse, est ornée d'un vitrail sur lequel le portrait photographique du défunt est lui-même en train de se décomposer.
+Hinstin, c'est d'abord le nom d'un général du XIXe siècle, mort et enterré en 1905. Sa tombe, au cimetière du Montparnasse, est ornée d'un vitrail sur lequel le portrait photographique du défunt - sa mémoire - est lui-même en train de se décomposer, de disparaître.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/vitrailOriginal.jpg" data-background-size="contain"-->
@@ -233,7 +233,7 @@ source image: _introduction au feuilleton collectif Général Instin_ sur remue.
 
 En 1997, la photographe Juliette Soubrier saisit plusieurs clichés de ce portrait fantomatique.
 
-La même année (1997) Patrick Chatelier, écrivain français, reprend cette photo pour la proposer comme contrainte créative lors d'une soirée de performance au squat artistique de la Grange aux belles (Paris).
+La même année, Patrick Chatelier, écrivain français, reprend cette photo pour la proposer comme contrainte créative lors d'une soirée de performance au squat artistique de la Grange aux belles (Paris).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/revueGeste.png" data-background-size="contain"-->
@@ -241,9 +241,9 @@ La même année (1997) Patrick Chatelier, écrivain français, reprend cette pho
 source image: revue-geste.fr  <!-- .element: class="source" -->
 
 ===
-Cette photo du Général va inspirer les artistes présents, et marquer le début d'un collectif relativement informel (bien que très pro-actif), qui donnera lieu à quelques publications papier - et à différents atelier littéraires (+/- formels là aussi).
+Cette photo du Général va fortement inspirer les artistes présents, et marquer le début d'un collectif relativement informel (bien que très pro-actif), qui donnera lieu à quelques publications papier et à plusieurs ateliers littéraires (selon une formule là aussi +/- formelle).
 
-Entre temps, Hinstin a perdu son "H" qui le faisait personnage historique, pour devenir un matériau narratif, platisque, sémiotique. Il devient ainsi Général Instin svt abrégé GI.
+Entre temps, Hinstin a déjà perdu son "H" qui le faisait personnage historique, pour devenir un matériau narratif, platisque, sémiotique. Il devient ainsi Général Instin, aussi abrégé GI.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/item-026.png" data-background-size="contain" -->
@@ -252,7 +252,8 @@ source image: remue.net
 
 <!-- .element: class="source" -->
 ===
-Rapidement, GI insvestit la plateforme Remue.net, qui va jouer un rôle d'agrégateur / centralisateur des productions consacrées à Instin : poèmes, récits, beaucoup d'images, des vidéos et enregistrements (car bcp de lectures et d'ateliers commencent à être archivés).
+
+GI insvestit rapidement la plateforme Remue.net, qui va jouer un rôle d'agrégateur et de centralisateur centralisateur de la plupart des productions consacrées à Instin : poèmes, récits, réflexions, images, vidéos et enregistrements (car le projet GI célèbre aussi l'oralité, la performance, la voix, renouant là encore avec d'anciennes traditions littéraires).
 
 Désormais, GI a pris racine dans l'hypertexte, et commence à hanter le web.
 
@@ -277,15 +278,15 @@ Les productions reliées au GI contiennent un aspect intermédial très fort, av
 source image: BNF  <!-- .element: class="source" -->
 
 ===
-Au cours des années 2000, Retour de bâton : le collectif redécouvre que la famille Hinstin (avec son H), a en fait partie liée depuis longtemps avec la littérature et les arts - présent chez Jarry, Kessel.
+Au cours des années 2000, Retour de bâton : le collectif redécouvre que la famille Hinstin (la famille historique, qui porte fièrement son H), a partie liée depuis longtemps avec la littérature et les arts - on la retrouve ainsi par exemple chez Lautréamont, Jarry ou Kessel - plagiaires par anticipation.
 
-La BNF dispose même d'un fonds d'archive photo de la famille (qui d'ailleurs est bien connue des spécialistes de Lautréamont). Comme quoi l'Histoire et l'histoire ne sont finalement pas si cloisonnées.
+La BNF dispose même d'un fonds d'archive photo de la famille. Comme quoi l'Histoire et l'histoire ne sont finalement pas si cloisonnées.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instinPapier.png" -->
 
 ===
-Enfin, depuis l'an dernier, Instin est devenu une figure auctoriale à part entière. Pour fêter cela, il a réinvesti le modèle éditorial imprimé, aux Éditions du Nouvel Attila, qui lui a même dédié une collection à lui seul : la collection Othello. Trois ouvrages ont été déjà publiés.
+Enfin, depuis l'an dernier, Instin est devenu une figure auctoriale à part entière. Pour fêter cela, il a réinvesti le modèle éditorial imprimé, aux Éditions Le Nouvel Attila, qui lui a même dédié une collection à lui seul : la collection Othello. Trois ouvrages ont été déjà publiés.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/corpusFantome.png" -->
@@ -295,12 +296,12 @@ source image: _lexique généraliste_ sur remue.net
 <!-- .element: class="source" -->
 
 ===
-Instin est donc un corpus fantôme.
+Général Instin est donc un corpus fantôme.
 La métaphore peut sembler facile pour parler d'une figure elle-même spectrale, mais elle revendiquée par le collectif.
 [CITER]
-Nous tenons tout particulièrement à cette expression qui évoque l'un de nos principaux défis : par sa nature processuelle, une partie de notre corpus semble toujours un peu sur le point de se dérober, voire sur le point de disparaître. En même temps, ce corpus est vivant et continue de se construire en même temps que nous l'étudions.
+Nous tenons de plus tout particulièrement à cette expression qui évoque l'un de nos principaux défis : par sa nature processuelle, une partie de notre corpus semble toujours un peu sur le point de se dérober, voire sur le point de disparaître. En même temps, ce corpus est vivant et continue de se construire en même temps que nous l'étudions.
 
-Instin est un fantôme, performé par le récit sans cesse réitéré de sa disparition, qui lui donne finalement un supplément d'existence.
+Notre intuition est la suivante : Instin est un fantôme, performé par le récit sans cesse réitéré de sa disparition, qui lui donne finalement un supplément d'existence.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/oeil.jpg" data-background-size="contain" -->
@@ -317,7 +318,7 @@ D'où nos deux problématiques majeures :
 1. Une pbk ontologique : Qu'est-ce qu'Instin exactement - qu'est-ce que ce fantôme qui performe sa propre disparition ? Que dit-il de notre époque ?
 2. Une pbk épistémologique : Comment répondre à ces questions ? Quelle méthodologie adopter pour étudier Instin?
 
-Une chose est sûre : il faut déjà croire un peu aux fantômes pour s'occuper de cet objet littéraire - dont nous avons entrepris l'impossible archivage.
+Une chose est sûre : il faut déjà croire un peu aux fantômes pour s'occuper de cet objet littéraire dont nous avons entrepris l'archivage - une façon comme une autre d'en performer à notre tour la disparition.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/sp38.png" -->
@@ -422,7 +423,7 @@ La chaine est présentée ici de manière linéaire là les différentes étapes
 <!-- .slide: class="hover"-->
 
 ### TEI
-* HTML to TEI
+* HTML to TEI ?
 * Paradoxe
 
 ===
@@ -442,14 +443,14 @@ Malgré tout, dans ces premiers pas de collections de textes présent sur le web
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instin_1_redimensionnee-2.jpg" data-background-size="cover" -->
 
-### MarGInalité
+### Mar[GI]nalité
 
 source image: _Il est passé par ici. Il repassera par là. (1)_ sur Remue.net
 
 <!-- .element: class="source" -->
 
 ===
-En fait, ce que soulève la question du format pour un corpus tel que le notre, c'est l'inadéquation d'une certaine littérature, qui, en renouant avec certaines formes d'oralité et de performativité, demeure à la marge des circuits d'édition traditionnels.
+En fait, ce que soulève la question du format pour un corpus tel que le notre, c'est l'inadéquation d'une certaine pratique et conception de la littérature, qui, en renouant avec certaines formes d'oralité et de performativité, demeure à la marge des circuits d'édition traditionnels.
 
 Pour les acteurs du collectif GI, cette marginalité est bien entendu un geste autant artistique que politique. Mais cela ne change rien au fait que leur absence des circuits de légitimation est problématique, notamment pour sa pérennité. Servanne reviendra sur ce point un peu plus tard.
 
@@ -516,17 +517,16 @@ On le voit, les Instin Studies se positionnent comme en miroir d'Instin, et ce �
 
 ===
 
-[REECRIRE]
+Et derrière la question de l'espace Instin c'est la question : y a t il un dispositif GI ?
 
-Y a t il vraiment un espace Instin ? y a t il un dispositif GI ?
-
-Or, similaire au sentiment d'insaisissabilité face à cette photo originelle du vitrail : celle d'une figure aux contours flous, spectrale, dont même la direction du regard s'est perdue, le projet Instin lui aussi se révèle indéfinissable, multi-forme ou à géométrie variable.
+Car, similaire au sentiment d'insaisissabilité face à cette photo originelle du vitrail : celle d'une figure aux contours flous, spectrale, dont même la direction du regard s'est perdue, le projet Instin lui aussi se révèle indéfinissable, multi-forme ou à géométrie variable.
 
 Toutes ces raisons laissent penser que le dispositif est absent.
 
-Cette intuition est aussi renforcée par l'élongation dans le temps du projet, le fait que les textes et les formes semblent s'accumuler sans poursuivre un objectif précis, si ce n'est celui de produire, aussi celui de faire collectif, celui d'une rhétorique peut-être. (rhétorique dispositive).
+Intuition renforcée par l'élongation dans le temps du projet, le fait que les textes et les formes semblent s'accumuler sans poursuivre un objectif précis, si ce n'est celui de produire, aussi celui de faire collectif, celui d'une rhétorique peut-être. (rhétorique dispositive).
 
 C'est cette absence supposée de dispositif qui permet justement de poser en creux la question du dispositif, et de se demander ce qu'il devient dans un tel projet, comment il opère, et s'il n'est plus là, qu'est ce qui le remplace.
+
 Autrement dit, de même qu'Instin constitue intuitivement un cas d'étude idéal de littérature contemporaine, il pourrait nous éclairer sur la nature d'un environnement-dispositif.
 
 
@@ -541,7 +541,7 @@ source image: _Instin, plans de coupe, vues générales._ sur remue.net
 <!-- .element: class="source" -->
 
 ===
-Reprenons donc la question ontologique initiale: qu'est-ce qu'Instin ? Ce nous a d'abord frappé - et ce qui a d'ailleurs guidé notre collecte - c'est l'incroyable pouvoir de propagation d'Instin, qui se répand comme une traînée de poudre. Pourquoi Instin fonctionne-t-il aussi bien - pourquoi fédère-t-il autant - comment a-t-il réussi à soulever une telle armée de contributeurs ?
+Reprenons donc la question ontologique initiale: qu'est-ce qu'Instin ? Ce nous a d'abord frappé - et ce qui a d'ailleurs guidé notre collecte - c'est l'incroyable pouvoir de propagation d'Instin, qui se répand comme une traînée de poudre. Pourquoi Instin fonctionne-t-il aussi bien - pourquoi fédère-t-il autant - comment le général a-t-il réussi à soulever une telle armée de contributeurs ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/rosecompas_grand.jpg" data-background-size="contain" -->
@@ -564,11 +564,11 @@ Première réponse: le critère d'appropriabilité, qui repose en fait sur un di
 
 À propos de la genèse d'Instin au squat de la Grange-aux-Belles, Patrick Chatelier témoigne : « J’ai montré les photos, j’ai un peu personnifié le général et je me suis aperçu que les artistes présents s’en emparaient pour en faire leur propre chose. C’est là que c’est devenu collectif. ».
 
-C'est à ce moment aussi que Hinstin perd son « H qui le faisait humain historique » pour opérer ce passage vers la fiction et devenir personnage-entité. Tout le monde peut alors s’approprier cet « ancêtre universel » pour lui inventer une histoire et lui donner une seconde vie.
+C'est à ce moment aussi que Hinstin perd son « H qui le faisait humain historique » pour opérer ce passage vers la fiction et devenir personnage-entité. Tout le monde peut s’approprier cet « ancêtre universel » pour lui inventer une histoire et lui donner une seconde vie. Instin est en libre-accès, en libre-service, même.
 
-Comme toute contrainte, Instin finira par se dérober à lui-même, en devenant totalement polymorphe - sa fonction et son statut littéraires en constantante évolution, au gré de nombreuses appropriations.
+Comme toute contrainte, Instin finira par se dérober à lui-même, en devenant totalement polymorphe - sa fonction et son statut littéraires en constantante évolution, au gré des multiples appropriations.
 
-Pour preuve, assez récemment, Instin est devenu une figure auctoriale : son nom trône en couverture de 3 ouvrages (une anthologie, un récit de fiction, une traduction d'edgar Lee Masters). Sur les réseaux sociaux, il compte ses propres profils et parle en son nom. Au cours de ce processus d'éditorialisation, Instin s'est donc aussi autorisé.
+Pour preuve, assez récemment, Instin est devenu une figure auctoriale : son nom trône en couverture de 3 ouvrages (une anthologie, un récit de fiction, une traduction de Spoon River d'Edgar Lee Masters). Sur les réseaux sociaux, il compte ses propres profils Facebook et Twitter, et parle en son nom. Au cours de ce processus d'éditorialisation, Instin s'est donc autorisé.
 
 Instin incarne ainsi des tendances ou des traits saillants des nouvelles pratiques d'écriture à l'ère numérique :
 - une forte tendance à l'appropriation, et son corollaire :
@@ -596,7 +596,7 @@ Depuis le squat de la Grange aux belles, Instin s'est toujours s'inscrit relativ
 
 Il est disséminé sur plusieurs supports, numériques/non-numériques, sur plusieurs plateformes, via des médias différents. Qu'il s'affiche sur les murs de nos rues ou sur le web, Instin occupe l'espace public - en même temps qu'il participe à redéfinir l'espace public à l'ère numérique.
 
-De l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement du web, des réseaux sociaux qui sont détournés pour créer un profil "fictif", nous avons tendance à croire qu'il y a là une même stratégie d'occupation des marges et de détournement des institutions, qui est essentiel pour comprendre les mutations qui affectent la notion même de littérature.
+De l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement du web, des réseaux sociaux qui sont détournés pour créer un profil "fictif", nous avons tendance à croire qu'il y a là une même stratégie d'occupation des marges et de détournement des institutions, qui est essentiel pour comprendre les mutations qui affectent la notion même de littérature - et qui sont en fait une célébration de la Littérature (de la voix, de la lettre, de la création).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
@@ -636,7 +636,7 @@ source image: _STREET-ART CAMPAGNE INSTIN_ sur sp38.com
 <!-- .element: class="source" -->
 
 ===
-Ce que l'on qualifiera donc désormais de "gestes de publication" traduit une nouvelle conception de l'écriture comme "milieu", pour reprendre l'expression de Sébastien Rongier qui a consacré des travaux ++ au Général Instin.
+Ce que l'on qualifiera donc désormais de "gestes de publication" traduit une conception de l'écriture comme "milieu", pour reprendre l'expression de Sébastien Rongier qui a consacré des travaux ++ au Général Instin.
 CITER
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -782,7 +782,7 @@ Ce glissement n'est pas anodin, il permet de nous rapprocher de la nature-même 
 
 ===
 
-A quoi ce milieu prédispose ? à quoi l'écriture dispositive qu'est Instin prédispose ? : à la réécriture, à l'appropriation.
+On progresse : A quoi ce milieu prédispose ? à quoi l'écriture dispositive qu'est Instin prédispose ? : à la réécriture, à l'appropriation.
 
 On l'a vu, cette appropriabilité, qui est caractéristique de l'espace Instin, ouvre la voie d'un commun.
 
@@ -804,14 +804,11 @@ Instin, en tant que communauté, en tant qu'environnement dispositif et en tant 
 
 Instin est donc une forme d'éditorialisation dont l'espace de publication est un espace public,
 
- comme
-
 Ainsi, dans cet espace public produit par cette forme particulière d'éditorialisation,
 
 Ainsi, si l'on réconcilie cette écriture dispositive ou écriture-milieu, et ce que la théorie de l'éditorialisation nous dit de la production de l'espace, c'est que l'écriture devient à la fois l'espace et l'objet du commun.
 
 l'éditorialisation qui est une production d'espace, cette écriture comme milieu,
-
 
 aussi l'idée que l'écriture est à la fois espace et objet littéraire.
 
@@ -863,10 +860,8 @@ Du coup, on pourrait se demander si, finalement, notre chronologie linéaire ne 
 * espace numérique et brouillage des frontières
 * superposition de discours littéraire et non littéraire
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/projet.png" data-background-size="contain" -->
-
+===
+À l’heure où le fait numérique accentue la non-pertinence de l’opposition entre imaginaire et réel, la littérature est donc appelée à jouer un rôle essentiel. Elle apparaît en effet, plus que jamais, comme un matériau de construction du réel, transformant par la même occasion les écrivains en architectes.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
@@ -882,7 +877,7 @@ Nous voilà donc devenus instiniens, ce qui nous amène à rester très prudent 
 
 Sommes-nous en train d’institutionnaliser Instin ou, au contraire, sommes-nous en train de nous marginaliser nous-mêmes (ce qui serait d'ailleurs peut-être préférable)?
 
-Une chose est sûre : nous nourrissons la bête qui est en train de nous dévorer.
+Une chose est sûre : nous nourrissons la bête - ou plutôt, la bête nous dévore.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
