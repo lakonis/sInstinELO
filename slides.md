@@ -233,7 +233,7 @@ source image: _introduction au feuilleton collectif Général Instin_ sur remue.
 
 En 1997, la photographe Juliette Soubrier saisit plusieurs clichés de ce portrait fantomatique.
 
-La même année, Patrick Chatelier, écrivain français, reprend cette photo pour la proposer comme contrainte créative lors d'une soirée de performance au squat artistique de la Grange aux belles (Paris).
+La même année, l'écrivain Patrick Chatelier reprend cette photo pour la proposer comme contrainte créative lors d'une soirée de performance au squat artistique de la Grange aux belles (Paris).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/revueGeste.png" data-background-size="contain"-->
@@ -253,7 +253,7 @@ source image: remue.net
 <!-- .element: class="source" -->
 ===
 
-GI insvestit rapidement la plateforme Remue.net, qui va jouer un rôle d'agrégateur et de centralisateur centralisateur de la plupart des productions consacrées à Instin : poèmes, récits, réflexions, images, vidéos et enregistrements (car le projet GI célèbre aussi l'oralité, la performance, la voix, renouant là encore avec d'anciennes traditions littéraires).
+GI insvestit rapidement la plateforme Remue.net, qui va jouer un rôle d'agrégateur et de centralisateur de la plupart des productions consacrées à Instin : poèmes, récits, réflexions, images, vidéos et enregistrements (car le projet GI célèbre aussi l'oralité, la performance, la voix, renouant là encore avec d'anciennes traditions littéraires).
 
 Désormais, GI a pris racine dans l'hypertexte, et commence à hanter le web.
 
@@ -278,7 +278,7 @@ Les productions reliées au GI contiennent un aspect intermédial très fort, av
 source image: BNF  <!-- .element: class="source" -->
 
 ===
-Au cours des années 2000, Retour de bâton : le collectif redécouvre que la famille Hinstin (la famille historique, qui porte fièrement son H), a partie liée depuis longtemps avec la littérature et les arts - on la retrouve ainsi par exemple chez Lautréamont, Jarry ou Kessel - plagiaires par anticipation.
+À la fin des années 2000, Retour de bâton : le collectif redécouvre que la famille Hinstin (la famille historique, qui porte fièrement son H), a partie liée depuis longtemps avec la littérature et les arts - on la retrouve ainsi par exemple chez Lautréamont, Jarry ou Kessel - plagiaires par anticipation.
 
 La BNF dispose même d'un fonds d'archive photo de la famille. Comme quoi l'Histoire et l'histoire ne sont finalement pas si cloisonnées.
 
