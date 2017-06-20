@@ -640,6 +640,26 @@ Ce que l'on qualifiera donc désormais de "gestes de publication" traduit une co
 CITER
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="http://vitalirosati.com/wp-content/uploads/2017/05/extrait-instin.mp4" -->
+
+
+source video: _Rue Instin, le Film - 3. le futur_ sur vimeo.com
+
+<!-- .element: class="source" -->
+
+
+===
+video : 9min + 11min30
+
+[TEXTE] Parmi ces gestes de publication = oralisation et performativité des expériences Instiniennes.
+Problème pour l'archivage et l'analyse d'une littérature qui s'énonce et se performe, bien plus qu'elle ne se lit.
+L'idée n'est pas de dire que GI est "nouveau" et révolutionne la littérature sous l'effet du numérique.
+Au contraire, on a un retour d'une certaine conception de la littérature.
+Dans ses travaux sur l'oralité, Zumthor avait bien montré que le passage vers une culture de l'écrit avait marqué le début d'une distance que l’homme prenait envers lui-même, son éloignement de son propre corps: "Un art qui reposait sur des techniques d’assemblage, de combinaison, de collage, sans souci d’authentification des parties, recule et cède assez vite le terrain à un art nouveau, qu’anime une volonté de singularisation. La théâtralité généralisée de la vie publique commence à s’estomper, et l’espace se privatise."
+C'est justement contre cette privatisation que semble oeuvrer Instin, en renouant avec la poésie au sens étymologique (un _faire_).
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/campagneNonOfficielle.png" -->
 <!-- .slide: class="hover"-->
