@@ -121,12 +121,15 @@ pourtant ça produit une émergence de sens
 <!-- .slide: class="hover"-->
 
 ### Enjeux et fonctions de l'éditorialisation
-Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
+décrire et comprendre les processus de production, de circulation et de légitimation de la littérature à l'ère numérique ?
 
 ===
-Au regard de ce balisage préliminaire, appliquée à la littérature ou aux humanités numériques littéraires, l'enjeu de l'éditorialisation est le suivant : Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
+Au regard de ce balisage préliminaire, appliquée à la littérature ou aux humanités numériques littéraires, l'enjeu de l'éditorialisation est le suivant : décrire et comprendre les processus de production, la circulation et la légitimation de la littérature à l'ère numérique ?
 
-Mine de rien, la qusetion que l'on se pose est assez ambitieuse: au fond, il ne s'agit rien de moins que d'interroger le statut ontologique de la littérature, à l'heure où le numérique ne se pense plus seulement en termes d'outils mais bien en termes de culture. <!-- ok là c'est simpliste mais j'essaire de transitionner-->
+Mine de rien, la question que l'on se pose est assez ambitieuse: au fond, il ne s'agit rien de moins que d'interroger le statut ontologique de la littérature, à l'heure où le numérique ne se pense plus seulement en termes d'outils mais bien en termes de culture.
+
+En passant, cette réflexion à portée ontologique apporte une dimension complémentaire, peut-être orthogonale à la communication de Marine ce matin. [Littérature dans sa forme (le livre) VS littérature comme rapport imaginaire/réel]
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/rhizome.jpg" -->
@@ -200,6 +203,7 @@ Si, tel que nous en avons la conviction, la littérature contribue également à
 ## Les Instin Studies : projet d'étude d'un corpus fantôme
 
 ===
+[A partir de là, cette présentation n'engage plus que nous!]
 
 Quoi de mieux pour mesurer l'efficacité du concept d'éditorialisation dans le champ des études littéraires, que de le confronter à un corpus hétérogène, mouvant, insaisissable, dont la nature serait en quelque sorte de ne pas avoir de nature, ou du moins d'en changer tout le temps.
 
@@ -370,9 +374,6 @@ A nouveau, au-delà de la question ontologique de ce qu'est Instin, de ce qu'il 
 ===
 
 L'inventaire s'est déroulé en trois temps :
-  1. Exploration du corpus par propagation hypertextuelle
-  2. Captation systématique (en cours)
-  3. Ajout de sources antérieures à GI
 
 Dans un premier temps, l'objectif était de faire un ballon d'essai avec 10 items, de réfléchir à leur indexation, aux métadonnées dont nous aurions besoin. Nous sommes partis d'un texte intitulé «G.I. [04.06.09]», publié sur la plateforme Remue.net sous le nom de fichier article3322.html. Nous l'avons indexé, et recensé les liens hypertextes contenus dans le texte.
 
@@ -773,12 +774,11 @@ Ce glissement n'est pas anodin, il permet de nous rapprocher de la nature-même 
 
 ### «GI Commons»
 
-* l'écriture dispositive : de l'appropriation
-* littérature éditorialisée : espace public
-* commun
+* littérature éditorialisée : espace public & de publication
+* l'écriture dispositive : appropriation
 * l'écriture comme :
-  * objet du commun
-  * milieu
+  * objet et milieu
+  * commun et condition du commun
 
 ===
 
@@ -897,7 +897,7 @@ Une chose est sûre : nous nourrissons la bête qui est en train de nous dévore
 ![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
 
 _Des humanités numériques littéraires ?_  
-15-22 juin 2017
+Cerisy - 15-22 juin 2017
 
 <!-- .element: style="font-size:1.4rem" -->
 
