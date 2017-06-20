@@ -645,7 +645,7 @@ CITER
 
 ### Général Anarchie ?
 
-> Il n’y a pas de chef, pas d’organisation, c’est un fonctionnement particulier. Il n’y a jamais eu non plus de comité de rédaction. Ni de réunion. Une tentative de séminaire a capoté. Il y a des opportunités et des gens qui vont s’investir, longtemps ou pas, dans cette entité.
+> «Il n’y a pas de chef, pas d’organisation, c’est un fonctionnement particulier. Il n’y a jamais eu non plus de comité de rédaction. Ni de réunion. Une tentative de séminaire a capoté. Il y a des opportunités et des gens qui vont s’investir, longtemps ou pas, dans cette entité.»
 >
 > Patrick Chatelier  
 
@@ -742,7 +742,7 @@ _Base acide_, Anne Kawala (2013)
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/rubon622.jpg"  -->
-
+<!-- .slide: class="hover"-->
 
 ### «dispositive» _(adj.)_
 
@@ -784,7 +784,21 @@ Ce glissement n'est pas anodin, il permet de nous rapprocher de la nature-même 
 
 A quoi ce milieu prédispose ? à quoi l'écriture dispositive qu'est Instin prédispose ? : à la réécriture, à l'appropriation.
 
-On l'a vu, cette appropriabilité est caractéristique de cet espace de publication généré par Instin. C'est peut-être le dernier ingrédient pour un commun
+On l'a vu, cette appropriabilité, qui est caractéristique de l'espace Instin, ouvre la voie d'un commun.
+
+Pour récapituler, la forme d'éditorialisation qu'est instin, en introduisant un changement radical d'autorité, en ouvrant et en réconciliant un espace de publication et un espace public d'action, produit une écriture dispositive prédisposant à l'appropriation et au commun.
+
+Pour finir: l'écriture dispositive est autant l'objet que le milieu, elle produit le commun, autant qu'elle en créée les conditions de possibilité.
+
+
+---
+
+Cette écriture dispositive est une forme d'éditorialisation dont la production d'espace est celle d'un espace à la fois public et de publication. Ici l'écriture devient autant l'objet que le milieu.
+
+Elle produit le commun autant qu'elle en créée les conditions de possibilité. Nous avons donc une forme d'éditorialisation
+
+
+
 Instin, en tant que communauté, en tant qu'environnement dispositif et en tant qu'écriture
 
 
