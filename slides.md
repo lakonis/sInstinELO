@@ -114,6 +114,13 @@ On mentionnera ainsi les travaux de Bachimont, pour qui l'éditorialisation dés
 
 À partir de 2008, le terme commence à s'institutionnaliser, notamment grâce aux travaux menés dans le cadre du séminaire "Écritures numériques et éditorialisation", où l'éditorialisation se conçoit comme un espace de débat et de réfléxion - nous vous invitons à consulter les archives vidéo disponibles en ligne, pour vous faire une idée plus précise de ce chantier théorique et pratique.
 
+
+Telle que définie et étudiée dans le cadre du séminaire,
+
+>«L’éditorialisation est un processus complexe résultant des interactions entre des contenus (ou des ressources), un environnement technique (le réseau, les serveurs, les plateformes, les CMS, les algorithmes des moteurs de recherche), des structures et formats (l’hypertexte, le multimédia, les métadonnées), et des pratiques (l’annotation, les commentaires, les recommandations via réseaux sociaux). Ce processus d’organisation et d’agencement des contenus numériques est par essence ouvert et dynamique.»
+>
+> Séminaire _Écritures numériques et éditorialisation_, 2014-2015
+
 L'éditorialisation permet alors de penser un processus ouvert dans le temps et dans l'espace, convoquant des auteurs, des collectivités, plateformes et dynamiques pratiques.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
